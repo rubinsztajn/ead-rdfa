@@ -43,10 +43,10 @@
 
 <!-- Generate RDFa snippet -->
 <xsl:template name="rdfa">
-    <div xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pvn="http://purl.org/archival/provenance/0.1#" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:vcard="http://www.w3.org/2006/vcard/ns#">
+    <div xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:arch="http://purl.org/archival/vocab/arch#" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
     <xsl:element name="div">
         <xsl:attribute name="about">#collection</xsl:attribute>
-        <xsl:attribute name="typeof">pvn:Collection</xsl:attribute>
+        <xsl:attribute name="typeof">arch:Collection</xsl:attribute>
         <xsl:element name="div">
             <xsl:attribute name="property">dcterms:title</xsl:attribute>
             <xsl:attribute name="content">
@@ -59,11 +59,46 @@
             <xsl:attribute name="content">
                 <xsl:value-of select="ead/archdesc/did/origination" />
             </xsl:attribute>
+        </xsl:element>
+        <xsl:if test="ead/archdesc/did/unitdate[@type='inclusive']">
+            <xsl:choose>
+                <xsl:when test="ead/archdesc/did/unitdate[@type='inclusive'][contains(., '-')]">
+                    <xsl:element name="div">
+                        <xsl:attribute name="property">arch:inclusiveStart</xsl:attribute>
+                        <xsl:attribute name="content"><xsl:value-of select="substring-before(ead/archdesc/did/unitdate[@type='inclusive'], '-')"/></xsl:attribute>
+                        <xsl:attribute name="datatype">xsd:date</xsl:attribute>
+                    </xsl:element>
+                        <xsl:element name="div">
+                            <xsl:attribute name="property">arch:inclusiveEnd</xsl:attribute>
+                            <xsl:attribute name="content"><xsl:value-of select="substring-after(ead/archdesc/did/unitdate[@type='inclusive'], '-')"/></xsl:attribute>
+                            <xsl:attribute name="datatype">xsd:date</xsl:attribute>
+                        </xsl:element>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:element name="div">
+                        <xsl:attribute name="property">dcterms:created</xsl:attribute>
+                        <xsl:attribute name="content"><xsl:value-of select="ead/archdesc/did/unitdate[@type='inclusive']"/></xsl:attribute>
+                        <xsl:attribute name="datatype">xsd:date</xsl:attribute>
+                    </xsl:element>
+                </xsl:otherwise>
+            </xsl:choose>
+            </xsl:if>
+        <xsl:if test="ead/archdesc/did/unitdate[@type='bulk']">
+            <xsl:element name="div">
+                <xsl:attribute name="property">arch:bulkStart</xsl:attribute>
+                <xsl:attribute name="content"><xsl:value-of select="substring-before(ead/archdesc/did/unitdate[@type='bulk'], '-')"/></xsl:attribute>
+                <xsl:attribute name="datatype">xsd:date</xsl:attribute>
             </xsl:element>
+            <xsl:element name="div">
+                <xsl:attribute name="property">arch:bulkEnd</xsl:attribute>
+                <xsl:attribute name="content"><xsl:value-of select="substring-after(ead/archdesc/did/unitdate[@type='bulk'], '-')"/></xsl:attribute>
+                <xsl:attribute name="datatype">xsd:date</xsl:attribute>
+            </xsl:element>
+        </xsl:if>
         <xsl:element name="div">
             <xsl:attribute name="property">dcterms:extent</xsl:attribute>
             <xsl:attribute name="content">
-                        <xsl:for-each select="//extent">
+                        <xsl:for-each select="ead/archdesc/did/physdesc/extent">
                             <xsl:apply-templates /><xsl:text> </xsl:text>
                     </xsl:for-each>
             </xsl:attribute>
@@ -77,7 +112,7 @@
         </xsl:element>
         </xsl:if>
         <xsl:element name="div">
-            <xsl:attribute name="rel">pvn:heldBy</xsl:attribute>
+            <xsl:attribute name="rel">arch:heldBy</xsl:attribute>
             <xsl:element name="div">
                 <xsl:attribute name="about">http://www.library.umass.edu/spcoll#organization</xsl:attribute>
                 <xsl:attribute name="typeof">foaf:Organization</xsl:attribute>
