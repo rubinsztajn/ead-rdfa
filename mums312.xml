@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="print.xsl" type="text/xsl"?>
+
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../../dtds/ead.dtd">
+
+<ead>
+<eadheader langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" audience="internal" id="head" relatedencoding="MARC21">
+
+<eadid publicid="-//us::mu//TEXT us::mu::mums312.xml//EN" countrycode="us" mainagencycode="mu">mums312</eadid>
+
+<filedesc>
+<titlestmt>
+<titleproper encodinganalog="245$a">W.E.B. Du Bois Papers, 1803-1999
+</titleproper>
+<subtitle>Finding Aid</subtitle>
+<author encodinganalog="245$c">Finding aid prepared by Robert W. McDonnell, Kerry W. Buckley.</author>
+<sponsor>Encoding funded by the Andrew W. Mellon Foundation.</sponsor>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">Special Collections and University Archives, W.E.B. Du Bois Library, University of Massachusetts Amherst</publisher>
+<address>
+<addressline>Amherst, MA</addressline>
+</address>
+<date encodinganalog="260$c" normal="2002">2002 </date>
+<p>University of Massachusetts Amherst. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">Finding aid encoded using Perl scripts and edited in XMetal 2.0. Encoded by Eric S. Cartier.
+<date>2002-12-09</date>
+</creation>
+<langusage>Finding aid written in
+<language encodinganalog="546" langcode="eng" scriptcode="latn">English.</language>
+</langusage>
+</profiledesc>
+<revisiondesc>
+<change encodinganalog="583">
+<date normal="2005-09-23">2005-09-23</date>
+<item>mu165 converted from EAD 1.0 to 2002 by v1to02-5c.xsl (sy2003-10-15).</item>
+</change>
+</revisiondesc>
+</eadheader>
+
+<frontmatter id="front">
+<titlepage>
+<publisher>Special Collections and University Archives, W.E.B. Du Bois Library, University of Massachusetts Amherst
+
+</publisher>
+<titleproper>W.E.B. Du Bois Papers, 1803-1999
+</titleproper>
+<subtitle>Finding Aid</subtitle>
+<num>Manuscript Number<lb/>
+ 312
+</num>
+<author>Compiled by<lb/>
+ Robert W. McDonnell<lb/>
+ Biographical essay by<lb/>
+ Kerry W. Buckley
+</author>
+
+<sponsor>Encoding funded by the Andrew W. Mellon Foundation.</sponsor>
+<p>2002 University of Massachusetts Amherst. All rights reserved.</p>
+</titlepage>
+</frontmatter>
+
+<archdesc relatedencoding="MARC21" level="collection">
+<did id="main">
+<head>Collection Overview</head>
+<origination label="Creator:">
+<persname encodinganalog="100" source="lcnaf">Du Bois, W.E.B., 1868-1963</persname>
+</origination>
+<unittitle label="Title:" encodinganalog="245$a">W.E.B. Du Bois Papers</unittitle>
+<unitdate encodinganalog="245$f" type="inclusive" normal="1803/1999">1803-1999</unitdate>
+<unitdate encodinganalog="245$g" type="bulk" normal="1877/1963">1877-1963</unitdate>
+<unitid label="Collection Number:" encodinganalog="099" repositorycode="mu" countrycode="us">MS 312</unitid>
+<physdesc label="Quantity:">
+<extent encodinganalog="300$a">382 boxes</extent>
+<extent encodinganalog="300$a">(168.75 linear ft.)</extent>
+</physdesc>
+<repository label="Location:">
+<corpname>Special Collections and University Archives, W.E.B. Du Bois Library, University of Massachusetts Amherst</corpname>
+</repository>
+<abstract label="Abstract:" encodinganalog="520$a">Scholar, writer, editor of <title render="italic">The Crisis</title> and other journals, co-founder of the Niagara Movement, the NAACP, and the Pan African Congresses, international spokesperson for peace and for the rights of oppressed minorities, W.E.B. Du Bois was a son of Massachusetts who articulated the strivings of African Americans and developed a trenchant analysis of the problem of the color line in the twentieth century.<lb />Includes over 100,000 items of correspondence (more than three quarters of the papers), speeches, articles, newspaper columns, nonfiction books, research materials, book reviews, pamphlets and leaflets, petitions, novels, essays, forewords, student papers, manuscripts of pageants, plays, short stories and fables, poetry, photographs, newspaper clippings, memorabilia, videotapes, audiotapes, and miscellaneous materials. A copy of the full published guide, which also includes a detailed listing of materials that were microfilmed is available online at: <extref href="http://www.library.umass.edu/spcoll/ead/mums312_full.pdf">http://www.library.umass.edu/spcoll/ead/mums312_full.pdf</extref>
+</abstract>
+<langmaterial label="Language of Material:">
+<language langcode="eng">English.</language>
+</langmaterial>
+</did>
+<bioghist id="bioghist">
+<head>Biographical Note</head>
+<dao linktype="simple" actuate="onload" show="embed" href="http://www.library.umass.edu/spcoll/images/duboisbrochurish.jpg" altrender="right">
+<daodesc><p>W.E.B. Du Bois, 1907</p></daodesc></dao>
+<p>The activist, writer, and intellectual William Edward Burghardt Du Bois, was born in the rural western Massachusetts town of Great Barrington on February 23, 1868, his New England roots extending back before the Revolution and including ancestors of French, Dutch, and African American heritage. From early in life, Du Bois was recognized for his extraordinary intellectual talents. Educated in the local public schools, he graduated as valedictorian of his high school class in 1884, and with the financial assistance of friends and family, entered Fisk University as a sophomore in 1885. Thoroughly a northerner, Du Bois' experiences in Nashville were crucial in galvanizing his understanding of American race relations. To earn additional money for his education, Du Bois taught in country schools in Tennessee during the summer months, where he saw firsthand the bitter influence of segregation and the harshest expressions of American racism. The more subtle discrimination he had faced in Massachusetts coupled with this more menacing aspect encouraged Du Bois to take a more aggressive stance against social injustice.</p>
+
+<p>After receiving his bachelor's degree from Fisk in 1888, Du Bois continued his studies at Harvard, enrolling as a junior and receiving his second bachelor's degree in 1890, followed by his MA in 1891 and PhD in 1895. As he had in Great Barrington and Nashville, Du Bois distinguished himself in Cambridge as a scholar. Like most Americans at the time intent upon an academic career, Du Bois enhanced his scholarly credentials by studying abroad. At the University of Berlin between 1892 and 1894, Du Bois was introduced to contemporary German social scientific theory and, more generally, he internalized the German scholarly tradition of a synthetic approach to social issues, blending history, philosophy, economics, and politics in the study of human social relations. Enamored of German culture, Du Bois also began to recognize the international dimensions of the struggle for racial justice and the connections between racial oppression and imperialist domination. </p>
+
+<p>Returning from Germany, Du Bois entered an extraordinarily busy and productive period of life. In 1894, he accepted an appointment on faculty of Wilberforce University; in 1895, he completed his dissertation; and in 1896, he got married -- to Nina Gomer (d.1950), with whom he had two children, Burghardt (1898-1900) and Yolande (1901-1960) -- and published his first book, <title render="italic">The Suppression of the African Slave Trade to the United States, 1638-1870</title>, the first volume published in the Harvard Historical Series (1896), was a landmark in social and historical analysis, concluding with a phrase that reflected Du Bois' growing commitment to social action:</p>
+
+<blockquote><p>It behooves the United States, therefore, in the interest both of scientific truth and of future social reform, carefully to study such chapters of her history as that of the suppression of the slave-trade. The most obvious question which this198 study suggests is: How far in a State can a recognized moral wrong safely be compromised? And although this chapter of history can give us no definite answer suited to the ever-varying aspects of political life, yet it would seem to warn any nation from allowing, through carelessness and moral cowardice, any social evil to grow. No persons would have seen the Civil War with more surprise and horror than the Revolutionists of 1776; yet from the small and apparently dying institution of their day arose the walled and castled Slave-Power. From this we may conclude that it behooves nations as well as men to do things at the very moment when they ought to be done.</p></blockquote>
+
+<dao linktype="simple" actuate="onload" show="embed" href="http://www.library.umass.edu/spcoll/images/MS0312-0477.jpg" altrender="left">
+<daodesc><p>W.E.B. Du Bois, ca.1950</p></daodesc></dao>
+<p>In 1896, Du Bois also moved to an appointment as assistant instructor in sociology at the University of Pennsylvania, undertaking an intensive analysis of the African American population of Philadelphia. The resulting publication, <title render="italic">The Philadelphia Negro</title> (1899), is often considered his most original and compelling scholarly contribution, and it is a foundational work in the field of urban sociology. It is distinguished not only as an exhaustive study of one population, but as a sensitive portrait of a population responding actively to social stresses and to the demands of urban life, rather than seeing them either as passive victims or social cancer.</p>
+
+<p>Moving next to Atlanta University to teach history and economics, from 1897 to 1910, Du Bois built a Department of Sociology with a national reputation. Perhaps the key to this reputation was the series of annual conferences Du Bois established in 1896. Each year, he and his colleagues focused on a single issue confronting African Americans, publishing the results in the <extref href="http://www.library.umass.edu/spcoll/dubois/">Atlanta University Publications series</extref>. They planned, too, to return to each subject at regular intervals to build the basis for the longitudinal study of social problems. Although the Atlanta studies were not of uniformly high quality and were hampered by insufficient funding, taken together they offer a significant empirical basis for social analysis of the African American community at the turn of the turn of the twentieth century. </p>
+
+<p>Not all of Du Bois' work was purely academic. He wrote numerous articles for the popular press and his book <title render="italic">The Souls of Black Folk</title> (1903) brought him national attention. In retrospect, it may be his most enduring work, having become part of the canon of African American literature. Among other things, the book spotlights the growing tensions in the African American community between the accommodationism of Booker T. Washington and Du Bois' more radical demand for full and immediate equal rights. Although Du Bois found some common ground with his rival -- precious little -- he was unrelenting in his criticism of Washington's willingness to work slowly toward equality by demanding only what whites were willing to cede. "So far as Mr. Washington apologizes for injustice, North or South," Du Bois wrote, "does not rightly value the privilege and duty of voting, belittles the emasculating effects of caste distinctions, and opposes the higher training and ambition of our brighter minds, -- so far as he, the South, or the Nation, does this, -- we must unceasingly and firmly oppose them."</p>
+
+<p>Creating the institutional basis to build and sustain this agenda, Du Bois helped found the Niagara Movement in 1905. While the group never had a large membership, it did pave the way for the establishment in 1909 of the National Association for the Advancement of Colored People (NAACP), an interracial organization based upon similar, though somewhat less radical principles.</p>
+
+<p>With activism consuming much of his energy, Du Bois left Atlanta University in 1910 to become director of research and publicity for the NAACP. A natural writer with previous experience editing <title render="italic">The Moon</title> (1906) and <title render="italic">Horizon</title> (1907-10), Du Bois was also appointed editor of the monthly journal of the NAACP, <title render="italic">The Crisis</title>. His numerous articles and editorials in Crisis solidified his position as a major spokesman for African American rights.</p>
+
+<p>Freed of his purely academic commitments, he also continued to write for the popular press, publishing a number of highly regarded books, including <title render="italic">The Negro</title> (1915), <title render="italic">Darkwater</title> (1920), <title render="italic">The Gift of Black Folk</title> (1924), and the novels <title render="italic">The Quest of the Silver Fleece</title> (1911) and <title render="italic">Dark Princess</title> (1928).  Among his most ambitious projects was a pageant of Black history and Black consciousness, <title render="italic">The Star of Ethiopia</title>, written both to celebrate the fiftieth anniversary of the Emancipation Proclamation and to provide a counterweight to the racist Hollywood cinematic epic, <title render="italic">Birth of a Nation</title>. A poet, novelist, and playwright himself, Du Bois had a deep interest in African American literature, from folk music to the writing of the Harlem Renaissance.  Du Bois even helped established a theatre troupe in 1924, the Krigwa Players, in which "Negro actors before Negro audiences interpret Negro life as depicted by Negro artists."</p>
+
+<p>During the first three decades of the twentieth century, one can discern two general trends in Du Bois's thought. First, he began increasingly to extend his analysis of the color bar beyond the borders of the United States to the world scene. A vice-president of the first Pan-African Conference in 1900, Du Bois helped organize a series of Pan-African Congresses between 1919 and 1927 that recognized the solidarities of people of color around the world and the need to combat racial oppression and imperial domination of underdeveloped countries.</p>
+
+<p>Secondly, while the NAACP and Du Bois both insisted upon the full integration of Blacks into the mainstream of American life, the onset of the Great Depression in 1929 and the intransigence of whites on racial matters gradually led him toward a Black nationalist solution of the race problem, stressing Black control of businesses, cooperatives, and other similar institutions as the key to Black survival. In this position, Du Bois began to depart from the mainstream of the leadership within the NAACP, resulting in Du Bois' resignation from the organization in 1934 and his departure from the editorship of Crisis. </p>
+
+<p>Returning to Atlanta University, Du Bois resumed teaching duties and the scholarly life. His <title render="italic">Black Reconstruction</title> (1935) ran directly counter to the predominantly white historiography of the Reconstruction period by emphasizing the contributions of African Americans in the South during the years immediately after the Civil War. Although the book was criticized by Marxists and Non-Marxists alike, its basic interpretation was to become widely accepted by historians. He also wrote <title render="italic">Black Folk, Then and Now</title> (1939) and <title render="italic">Dusk of Dawn</title> (1940), and in 1940, he founded <title render="italic">Phylon</title>, a quarterly social science journal. With support from the Phelps-Stokes Fund, he also became involved in the preparation of an <title render="italic">Encyclopedia of the Negro</title>, a work that saw only a preparatory volume published. </p>
+
+<p>Still remarkably active and productive in his seventies, Du Bois retired from Atlanta University in 1944. He soon returned to the NAACP, where his duties revolved around special research projects, especially relating to the place of the African colonies in the postwar world, and where he served as consultant for the NAACP to the United States delegation at the founding meeting of the United Nations. The old rifts, however, were not so easily healed. In 1948 Du Bois was dismissed after continuing disagreements with other officials over NAACP policies. </p>
+
+<p>In his later years, Du Bois served as a co-chair of the Council on African Affairs and chair of the Peace Information Center and the American Peace Crusade. In 1950, he made his first and only foray into formal politics, running for the U.S. Senate from New York on the American Labor Party ticket. Ironically, perhaps, this brush with formal politics was paired with a less congenial one. During the anti-Communist hysteria of 1951, Du Bois's activities on behalf of the Peace Information Center led to an indictment against him and four associates as unregistered foreign agents. Although the charges were dismissed as groundless later that year, the attack by an arm of his own government was a bitter experience. Du Bois nevertheless continued his work in peace and international affairs, visiting Russia and China. </p>
+
+<p>Du Bois became a member of the Communist Party of the United States in 1961. That same year, at the age of ninety-three, he moved to Ghana at the invitation of President Kwame Nkrumah to serve as editor of an <title render="italic">Encyclopedia Africana</title>. Although poor health limited his work, Du Bois continued to study and write. He took Ghanaian citizenship and on August 27, 1963, died in Accra at the age of ninety-five. Du Bois was survived by his second wife, the writer Shirley Graham Du Bois, whom he had married in 1951. </p>
+
+<p>Over his lifetime Du Bois wrote or edited more than three dozen books and hundreds of articles. His accomplishments were many. As an activist and organizer, Du Bois helped usher in the modern civil rights movement by founding and building the Niagara Movement and NAACP, and he helped create periodicals that became important voices for Black identity. As a scholar and founder of American sociology, he contributed early and important works in the literature of demography, race sociology and research methodology, he helped define the continuous social survey and the fields of social stratification and race relations. As a writer, his work earned him election to the National Institute of Arts and Letters. Although Du Bois's reputation suffered among white Americans during the McCarthy era, and although he died in 1963 before the reputations of McCarthy victims were rehabilitated, his impact and influence were international in scope. A generation after his death, Du Bois remains a potent figure internationally, and a source of inspiration for millions.
+</p>
+</bioghist>
+<scopecontent id="scope">
+<head>Scope and Contents of the Collection</head>
+<p>The W.E.B. Du Bois Papers, 1803-1999, document virtually every stage in his long career and show his involvement in many areas of twentieth century racial, literary, and social reform movements.  In particular, the correspondence files, including well over 100,000 items show Du Bois' interactions with others in these realms.  The earliest letter in the collection, a note to his grandmother, dates from 1877 when Du Bois was just nine years old. Among the latest is the draft of a letter, written not long before his death in 1963, appealing to the leaders of the Soviet Union and China to heal the divisions that had arisen in the world communist movement.  The files, containing only a few items from his early youth, become more plentiful for Du Bois' student days in the 1880s and 1890s, and the commencement of his career as scholar and educator in the 1890s and 1900s.  They are at their fullest during his period with the NAACP as editor of The Crisis, 1910-1934, and they remain nearly as abundant for the last thirty years of his life, 1934-1963.</p>
+</scopecontent>
+
+
+<arrangement encodinganalog="351$a" id="scope-org">
+<head>Organization of the Collection</head>
+<p>This collection is organized into twenty-four series:</p>
+<list>
+<item>Series 1. Correspondence, 1877-1965</item>
+<item>Series 2. Speeches, 1888-1962</item>
+<item>Series 3. Articles, 1887-1968</item>
+<item>Series 4. Newspaper Columns, 1927-1961, n.d.</item>
+<item>Series 5. Nonfiction Books, ca. 1896-1962</item>
+<item>Series 6. Research Materials, 1896-1959, n.d.</item>
+<item>Series 7. Pamphlets and Leaflets, 1902-1962</item>
+<item>Series 8. Book Reviews, 1905-1961</item>
+<item>Series 9. Petitions, 1947-1961</item>
+<item>Series 10. Essays, Forewords, and Student Papers, ca. 1888-1962</item>
+<item>Series 11. Novels, 1892-1961</item>
+<item>Series 12. Pageants, 1913-1941, n.d.</item>
+<item>Series 13. Plays, 1928-1940, n.d.</item>
+<item>Series 14. Short Stories and Fables, 1895-1950s</item>
+<item>Series 15. Poetry, 1907-1965, n.d.</item>
+<item>Series 16. Miscellaneous Material, 1803-1964</item>
+<item>Series 17. Photographs, ca. 1864-1963</item>
+<item>Series 18. Memorabilia, 1913-1963</item>
+<item>Series 19. Motion Pictures and Tapes, 1958-1979</item>
+<item>Series 20. Newspaper Clippings, 1901-1955, n.d.</item>
+<item>Series 21. Copies of Du Bois materials from other locations, 1870-1983</item>
+<item>Series 22. Accretions to the Du Bois Papers, 1890-1963</item>
+</list>
+</arrangement>
+
+
+
+
+<accessrestrict encodinganalog="506" id="admin-access">
+<p>There are no restrictions on access to the contents of the collection.  Since many of the items are fragile, however, researchers are requested to use the microfilm whenever possible. </p>
+</accessrestrict>
+<accessrestrict>
+<p>The collection is open for research.</p>
+</accessrestrict>
+
+<prefercite id="admin-cite">
+<head>Preferred Citation</head>
+<p><emph render="italic">Cite as</emph>: W.E.B. Du Bois Papers (MS 312). Special Collections and University Archives, W.E.B. Du Bois Library, University of Massachusetts Amherst. </p>
+</prefercite>
+
+<altformavail encodinganalog="530" id="admin-altform">
+<head>Additional Formats</head>
+<p>Most of the Du Bois papers at the University of Massachusetts were microfilmed in l979 and are available in many locations in the United States and elsewhere, or through interlibrary loan, or by purchase from University Microfilms International.</p>
+
+<p>Images from this collection are also available in the <extref href="http://www.library.umass.edu/spcoll/exhibits/dubois/index.htm">Online Exhibit of Materials from the Du Bois Papers</extref>.</p>
+</altformavail>
+
+
+
+<custodhist id="admin-custodhist">
+<p>During his lifetime Du Bois conscientiously retained his incoming letters, copies of his outgoing letters, and files of his speeches, articles, books and other manuscripts.  While these files were most complete for the middle and later stages of his life, all periods are represented to some degree in this collection.  Some papers were transferred at various times to Fisk University, Yale University and the Schomburg Center of the New York Public Library, but Du Bois retained ownership of most of his papers pending a final decision on a repository site.</p>
+
+<p>When Du Bois moved to Ghana in 1961, he left the bulk of his papers with Herbert Aptheker in New York City and named him as editor of a planned edition of Du Bois' correspondence and other works.  While Du Bois did take some correspondence and other manuscripts to Africa, Aptheker was left the greater part of the collection, which he and his wife arranged into workable order and supplemented with copies of many Du Bois materials they located in other repositories.  The last two years of Du Bois' life generated additional papers including new correspondence, papers relating to the Encyclopedia Africana, and other manuscripts.  At Du Bois' death in 1963, ownership of his files passed to his widow, Shirley Graham Du Bois.  When President Nkrumah's government was overthrown in 1966, Mrs. Du Bois left Ghana in haste for Cairo, Egypt, taking the papers with her.  Aptheker continued to care for the papers left with him until the entire collection went to Massachusetts in 1973.  In the early 1970s, aware that plans for a permanent location had not been made, University of Massachusetts officials negotiated an agreement with Mrs. Du Bois for all of Dr. Du Bois' papers to come to the University.  Since then, accretions to the collection have been received from David Du Bois, Herbert Aptheker, Randolph Bromery, David Levering Lewis, Veoria Shivery, U. S. Department of State, Federal Bureau of Investigation (by request through the Freedom of Information Act) and others.
+</p>
+</custodhist>
+
+
+
+
+<processinfo><p>Processed by Robert W. McDonnell.  Biographical essay by Kerry W. Buckley.</p></processinfo>
+
+
+<controlaccess id="subj">
+<head>Search Terms</head>
+
+<persname encodinganalog="600" source="lcnaf">Du Bois, W. E. B. (William Edward Burghardt), 1868-1963</persname>
+<persname encodinganalog="600" source="lcnaf">Du Bois, W. E. B. (William Edward Burghardt), 1868-1963 -- Correspondence</persname>
+<persname encodinganalog="600" source="lcnaf">Du Bois, W. E. B. (William Edward Burghardt), 1868-1963 -- Views on democracy -- Sources</persname>
+<corpname encodinganalog="610" source="lcnaf">National Association for the Advancement of Colored People</corpname>
+<title render="italic" encodinganalog="630" source="lcsh">Crisis (New York, N.Y.) </title>
+<subject encodinganalog="650" source="lcsh">African Americans -- Civil rights -- History -- Sources</subject>
+<subject encodinganalog="650" source="lcsh">African Americans -- History -- 1877-1964 -- Sources</subject>
+<subject encodinganalog="650" source="lcsh"> Pan-Africanism</subject>
+<geogname encodinganalog="651" source="lcsh">United States -- Race relations -- Sources</geogname>
+<persname encodinganalog="700" source="lcnaf">McDonnell, Robert W. </persname>
+<corpname encodinganalog="710" source="lcnaf">National Association for the Advancement of Colored People</corpname>
+</controlaccess>
+
+
+
+<otherfindaid id="add-otherfind" encodinganalog="555">
+<head>Additional Finding Aids Available</head>
+<p>A copy of the full published guide, which also includes a detailed listing of materials that were microfilmed is available at <extref href="http://www.library.umass.edu/spcoll/ead/mums312_full.pdf">http://www.library.umass.edu/spcoll/ead/mums312_full.pdf</extref>
+</p>
+</otherfindaid>
+
+
+
+
+
+<dsc type="combined" id="contlist">
+<c01 level="series">
+<did>
+<unittitle><extref href="http://www.library.umass.edu/spcoll/ead/mums312_1a1.htm">Series 1. Correspondence</extref></unittitle><unitdate>1877-1965</unitdate>
+<physdesc>
+<extent>119.25 linear feet</extent>
+</physdesc>
+<physdesc>Microfilm reels 1-79</physdesc>
+</did>
+<note label="Link to:">
+<list type="simple">
+<item><extref href="http://www.library.umass.edu/spcoll/ead/mums312_1a1.htm">Series 1A, part 1</extref> (General Correspondence, 1877-1932)</item>
+<item><extref href="http://www.library.umass.edu/spcoll/ead/mums312_1a2.htm">Series 1A, part 2</extref> (General Correspondence, 1933-1965)</item>
+<item><extref href="http://www.library.umass.edu/spcoll/ead/mums312_1b.htm">Series 1B</extref>  (Crisis Correspondence, 1911-1934)</item>
+</list>
+</note>
+<arrangement>
+<p>The correspondence is arranged chronologically by year, and alphabetically by name of correspondent within each year. There are two major exceptions to this arrangement: (1) The correspondence from 1877 to 1910 is so sparse, compared to other years, that it has been grouped together in a single alphabetical sequence; (2) By the beginning of 1911, and lasting through 1934, Du Bois had so much correspondence as editor of The Crisis (first issue in November 1910) that Crisis correspondence has been separated into a discrete group within each year. In each of those years the General correspondence comes first, with a complete alphabet of correspondents, followed by Crisis- related correspondence in a second complete alphabet.
+</p>
+</arrangement>
+<scopecontent>
+<p>Series 1, Correspondence, constitutes over three-fourths of the Du Bois Papers at the University of Massachusetts. It includes correspondence received by Du Bois and carbon copies of letters he wrote to others throughout his life. His life covered ninety-five years of important social change in the United States and in the world, during which Du Bois was a leading participant in many of the most important efforts for change. He knew and corresponded with many of the leading figures of his long lifetime.
+</p>
+<p>Du Bois' correspondence files reflect his involvement in many areas of twentieth century racial, literary and social reform movements. The 100,000 or more items document his career and provide a wealth of information on the work of others with whom Du Bois came into contact. The earliest item of correspondence is from 1877, although the bulk of the material is from the post-1910 period. The files continue through the years of his work with the NAACP, teaching and research at Atlanta University during the 1930s and 1940s, return to the NAACP in 1944, involvement with the peace movement in the late 1940s and the 1950s, and work with the Encyclopedia Africana until his death in 1963. A few items of Shirley Graham Du Bois' correspondence concerning Du Bois from late 1963, 1964 and 1965 bring this part of the collection to a close.</p>
+
+<p>Among Du Bois' many correspondents are Jane Addams, Sherwood Anderson, Ralph Bunche, Andrew Carnegie, Charles Chesnutt, Countee Cullen, Paul Laurence Dunbar, Albert Einstein, Mahatma Ghandi, W.C. Handy, Langston Hughes, William James, James Weldon Johnson, Jomo Kenyatta, Martin Luther King Jr., Claude McKay, Margaret Mead, Kwame Nkrumah, Eugene O'Neill, Sylvia Pankhurst, A. Phillip Randolph, Paul Robeson, Eleanor, Franklin and Theodore Roosevelt, Bertrand Russell, George Bernard Shaw, Arthur and Joel Spingarn, Moorfield Storey, Mary Church Terrell, Carl Van Vechten, Booker T. Washington, H.G. Wells, Walter White, and Roy Wilkins.
+</p>
+</scopecontent>
+</c01>
+<c01 level="series">
+<did>
+<unittitle><extref href="http://www.library.umass.edu/spcoll/ead/mums312_2.htm">Series 2. Speeches</extref></unittitle><unitdate>1888-1962</unitdate>
+<physdesc>
+<extent>8.5 linear feet</extent>
+</physdesc>
+<physdesc>Microfilm reels 80 - 81</physdesc>
+</did>
+<scopecontent>
+<p>Series 2, Speeches, includes the manuscripts of over three hundred different speeches, ranging from those he gave at his college commencements from Fisk and Harvard to others delivered near the end of his life. Most date from the 1940s and 1950s and show his interest in world peace, colonialism, and developments in Africa and America. Many speeches are available from his 1950 campaign for election as United States Senator from New York. These speeches as a whole contain Du Bois' developed (and developing) thoughts on various subjects. While a number of his speeches were published, it is worth noting that he would revise the spoken version considerably before releasing it for publication. Thus the original manuscripts retain considerable research value even in cases where the speech was later published, some in greatly revised form.
+</p>
+</scopecontent>
+</c01>
+<c01 level="series">
+<did>
+<unittitle><extref href="http://www.library.umass.edu/spcoll/ead/mums312_3.htm">Series 3. Articles</extref></unittitle><unitdate>1887-1968</unitdate>
+<physdesc>
+<extent>6.5 linear feet</extent>
+</physdesc>
+<physdesc>Microfilm reels 81 - 83</physdesc>
+</did>
+<arrangement>
+<p>The manuscripts are arranged in five subseries, and chronologically within each subseries.</p>
+</arrangement>
+<scopecontent>
+<p>Manuscripts of articles include drafts and other versions of many of the items published by Du Bois in the numerous journals to which he contributed over his lifetime. In addition, complete or incomplete manuscripts are to be found for many articles which apparently were never published. In all, over four hundred manuscripts of articles are in the collection, with dates ranging from the 1880s to articles published after his death in 1963.  They are typescripts unless otherwise indicated.</p>
+<p>(A) Articles, published, other than in Crisis</p>
+<p>(B) Articles published in Crisis</p>
+<p>(C) Articles not known to have been published</p>
+<p>(D) Articles in printed form</p>
+<p>(E) Crisis articles in printed form</p>
+</scopecontent>
+</c01>
+<c01 level="series">
+<did>
+<unittitle><extref href="http://www.library.umass.edu/spcoll/ead/mums312_4.htm">Series 4. Newspaper Columns</extref></unittitle><unitdate>1927-1961, n.d.</unitdate>
+<physdesc>
+<extent>1.5 linear feet</extent>
+</physdesc>
+<physdesc>Microfilm reels 83 - 84
+</physdesc>
+</did>
+<arrangement>
+<p>They are arranged alphabetically by title of the newspaper, and chronologically within each paper.
+</p>
+</arrangement>
+<scopecontent>
+<p>Manuscript versions of Du Bois' columns for the Chicago Defender, Chicago Globe, Freedom, National Guardian, New Africa, New York Amsterdam News, People's Voice, and Pittsburgh Courier show his thoughts on the news and events of the day. It is important to note that the various newspaper editors did not always publish the columns he submitted, but would occasionally find room to publish only selected portions. Some column manuscripts were, in fact, never published, but they are important as Du Bois' intended public statements of his views.
+</p>
+</scopecontent>
+</c01>
+<c01 level="series">
+<did>
+<unittitle><extref href="http://www.library.umass.edu/spcoll/ead/mums312_5.htm">Series 5. Nonfiction Books</extref></unittitle>
+<unitdate>1896-1962</unitdate>
+<physdesc>
+<extent>5.25 linear feet</extent>
+</physdesc>
+<physdesc>Microfilm reels 84 - 86
+</physdesc>
+</did>
+<arrangement>
+<p>The works are arranged alphabetically by title.
+</p>
+</arrangement>
+<scopecontent>
+<p>Manuscripts of nonfiction books include several unpublished items. A World Search for Democracy (mostly complete) was prepared in the late 1930s. Also of interest are Russia and America: An Interpretation; This Africa: How it Arose, Whither it Goes; and research notes for the Encyclopedia of the Negro and for a study of the Black soldier in World War I, "The Black Man and the Wounded World." There are prospectuses of several books. Of those books that were published, of particular interest are several surviving handwritten chapters from The Souls of Black Folk and a complete typescript, with handwritten corrections, of A Soliloquy on Viewing My Life form the Last Decade of Its First Century: The Autobiography of W.E.B. Du Bois. There are also other manuscripts of published works.
+</p>
+</scopecontent>
+</c01>
+<c01 level="series">
+<did>
+<unittitle><extref href="http://www.library.umass.edu/spcoll/ead/mums312_6.htm">Series 6. Research Materials</extref></unittitle><unitdate>1896-1959, n.d.</unitdate>
+<physdesc>
+<extent>0.75 linear feet</extent>
+</physdesc>
+<physdesc>Microfilm reel 86
+</physdesc>
+</did>
+<scopecontent>
+<p>Research materials in the Papers include typescripts, handwritten manuscripts, and clipped and other printed materials, arranged in the following sequence: research notes on Africa, general research notes, notes that appear likely to have been made for speeches or articles, and miscellaneous research materials. There are about 800 to 1,000 pages in all, in these four groups.
+</p>
+</scopecontent>
+</c01>
+<c01 level="series">
+<did>
+<unittitle><extref href="http://www.library.umass.edu/spcoll/ead/mums312_7.htm">Series 7. Pamphlets and Leaflets</extref></unittitle><unitdate>1902-1962</unitdate>
+<physdesc>
+<extent>1 linear foot</extent>
+</physdesc>
+<physdesc>Microfilm reel 86</physdesc>
+</did>
+<arrangement>
+<p>The materials are arranged chronologically.
+</p>
+</arrangement>
+<scopecontent>
+<p>Materials that resulted, or were intended to result, in pamphlets or leaflets appear in this series in typed, handwritten, and/or printed form. The publications range from 1902 until 1962, and the subjects show a great variety, ranging from Du Bois' 1904 Credo and a Bibliography of the Negro Folk Song in America to Blacks, Black education, Benjamin Franklin, peace and the H-bomb.
+</p>
+</scopecontent>
+</c01>
+<c01 level="series">
+<did>
+<unittitle><extref href="http://www.library.umass.edu/spcoll/ead/mums312_8.htm">Series 8. Book Reviews</extref></unittitle><unitdate>1905-1961</unitdate>
+<physdesc>
+<extent>1 linear foot</extent>
+</physdesc>
+<physdesc>Microfilm reel 86</physdesc>
+</did>
+<scopecontent>
+<p>Fifty-five reviews by Du Bois of books by other authors are included here, in chronological order from 1905 to 1961. Du Bois concentrated, in these reviews, on Blacks, Africa, the American South, and race relations.
+</p>
+</scopecontent>
+</c01>
+<c01 level="series">
+<did>
+<unittitle><extref href="http://www.library.umass.edu/spcoll/ead/mums312_9.htm">Series 9. Petitions</extref></unittitle><unitdate>1947-1961</unitdate>
+<physdesc>
+<extent>0.25 linear foot</extent>
+</physdesc>
+<physdesc>Microfilm reel 86</physdesc>
+</did>
+<scopecontent>
+<p>Petitions here include the manuscript of Du Bois' introduction and the contributions of some other authors to the NAACP's 1947 "Appeal to the World: A Statement on the Denial of Human Rights to Minorities..." and other petitions from then to 1961.
+</p>
+</scopecontent>
+</c01>
+<c01 level="series">
+<did>
+<unittitle><extref href="http://www.library.umass.edu/spcoll/ead/mums312_10.htm">Series 10. Essays and Student Papers</extref></unittitle>
+<unitdate>1888-1962</unitdate>
+<physdesc>
+<extent>1 linear foot</extent>
+</physdesc>
+<physdesc>Microfilm reels 86 - 87</physdesc>
+</did>
+<arrangement>
+<p>Each of the subseries indicated in the series title is arranged chronologically.
+</p>
+</arrangement>
+<scopecontent>
+<p>The subseries Essays is limited to Du Bois' contributions to encyclopedias and other works of multiple authorship. Most were published 1924-1962, but several apparently were never published. There are five Forewords contributed by Du Bois to books written by others between 1922 and 1962. The Student Papers are arranged in four groups: papers at Fisk around 1888; papers at Harvard, 1888-1891; student papers, largely on economics and politics, from the 1890s; and "Sketches, 1889-1896," which includes some travel notes, journals, notes on celebrations of his birthday, and some creative writing.
+</p>
+</scopecontent>
+</c01>
+<c01 level="series">
+<did>
+<unittitle><extref href="http://www.library.umass.edu/spcoll/ead/mums312_11.htm">Series 11. Novels</extref></unittitle><unitdate>1892-1961</unitdate>
+<physdesc>
+<extent>1.25 linear feet</extent>
+</physdesc>
+<physdesc>Microfilm reel 87</physdesc>
+</did>
+<arrangement>
+<p>The materials are arranged alphabetically by title, with a number of untitled or unidentified fragments and notes at the end of the file.
+</p>
+</arrangement>
+<scopecontent>
+<p>The earliest evidence in the Papers of Du Bois as a novelist is the manuscript and plot outline of A Fellow of Harvard, 1892, when Du Bois was twenty-four years old. The latest is fragments and notes concerning his trilogy The Black Flame and notes on Worlds of Color, both dating from 1961.
+</p>
+</scopecontent>
+</c01>
+<c01 level="series">
+<did>
+<unittitle><extref href="http://www.library.umass.edu/spcoll/ead/mums312_12.htm">Series 12. Pageants</extref></unittitle><unitdate>1913-1941, n.d.</unitdate>
+<physdesc>
+<extent>0.5 linear feet</extent>
+</physdesc>
+<physdesc>Microfilm reel 87</physdesc>
+</did>
+<arrangement>
+<p>The pageants are arranged alphabetically by title.
+</p>
+</arrangement>
+<scopecontent>
+<p>Du Bois' pageants were large-scale presentations on the course of Black history that were designed to appeal to a mass audience. His most famous pageant, The Star of Ethiopia, designed for a cast of 1,000, was presented in 1913 in New York, in 1915 in Washington, in 1916 in Philadelphia, and in 1925 in Los Angeles. The Star of Ethiopia papers include typescripts and manuscripts, stage directions, posters, programs, and financial records of some productions. Manuscripts for other pageants include George Washington and Black Folk: A Pageant for the Bicentennary, 1732-1932; The Jewel of Ethiopia; The Seven Gifts of Ethiopia; The Nine Tales of Black Folk, and others.
+</p>
+</scopecontent>
+</c01>
+<c01 level="series">
+<did>
+<unittitle><extref href="http://www.library.umass.edu/spcoll/ead/mums312_13.htm">Series 13. Plays</extref></unittitle><unitdate>1928-1940, n.d.</unitdate>
+<physdesc>
+<extent>2 linear feet</extent>
+</physdesc>
+<physdesc>Microfilm reels 87 - 88</physdesc>
+</did>
+<arrangement>
+<p>The manuscripts of plays are in two groups.</p>
+</arrangement>
+<scopecontent>
+<p>The first, Playthings of the Night, was intended for book publication in 1931, and contains introductory essays by Du Bois and various drafts of five plays. The second group, The Darker Wisdom, was intended for book publication in 1940, and contains manuscripts of four of the five plays in the previously proposed title (one with a changed title). The plays included are The All Mother (later entitled The Slave, the Serf, and the Blond Beast); Black Hercules at the Forks of the Road; Black Man; Christ on the Andes; and Seven Up.  An outline for The Prodigal Race, an unidentified fragment of a play or tale, and variant title pages or subtitles are also included.
+</p>
+</scopecontent>
+</c01>
+<c01 level="series">
+<did>
+<unittitle><extref href="http://www.library.umass.edu/spcoll/ead/mums312_14.htm">Series 14. Short Stories and Fables</extref></unittitle><unitdate>1895-1950s</unitdate>
+<physdesc>
+<extent>1 linear foot</extent>
+</physdesc>
+<physdesc>Microfilm reel 88</physdesc>
+</did>
+<scopecontent>
+<p>The handwritten and typed manuscripts are in two groups: seven "fables" of one to two pages each, and some thirty- five longer short stories plus a few fragments. The earliest dated item is an 1895 story about Wilberforce University. Du Bois continued to write in this genre at least into the 1950s, when there are many stories signed "Bud Weisob," an anagram of his own name, perhaps an attempt to avoid the McCarthy era's blacklisting of known or suspected Communists. The great majority of the stories were never published.
+</p>
+</scopecontent>
+</c01>
+<c01 level="series">
+<did>
+<unittitle><extref href="http://www.library.umass.edu/spcoll/ead/mums312_15.htm">Series 15. Poetry</extref></unittitle><unitdate>1907-1965, n.d.</unitdate>
+<physdesc>
+<extent>0.25 linear foot</extent>
+</physdesc>
+<physdesc>Microfilm reel 88</physdesc>
+</did>
+<arrangement>
+<p>The poetry is arranged in two groups: about 130 pages of poetry that was published, mostly in Horizon, The Crisis and Masses and Mainstream, and about two hundred pages that remain unpublished or unidentified.
+</p>
+</arrangement>
+<scopecontent>
+<p>Throughout his life Du Bois wrote poetry. Among his notable published efforts were "The Song of the Smoke," "The Christmas Prayers of God," "Suez," and "Ghana Calls."
+</p>
+</scopecontent>
+</c01>
+<c01 level="series">
+<did>
+<unittitle><extref href="http://www.library.umass.edu/spcoll/ead/mums312_16.htm">Series 16. Miscellaneous Material</extref></unittitle><unitdate>1803-1964</unitdate>
+<physdesc>
+<extent>2.25 linear feet</extent>
+</physdesc>
+<physdesc>Microfilm reels 88 - 89</physdesc>
+</did>
+<scopecontent>
+<p>Genealogical records include vital, military, financial, and land records; lists of relatives and important family dates, two diaries (1856 and 1861) of Du Bois' paternal grandfather Alexander Du Bois; and correspondence of his (1875 and 1878). There are manuscript and printed materials from Du Bois' years at Great Barrington High School; Fisk University, including his certificates and contracts for teaching in Tennessee in 1886 and 1887; Harvard University; the University of Berlin; and Wilberforce and Atlanta University. Also included are brief biographies of Du Bois, bibliographies of his writings, a list of books in his personal library, and a typed transcription of an unpublished oral history interview with Du Bois by William Ingersoll in 1960. Works by others include Shirley Graham Du Bois' notes and fragments of speeches for the legal defense of Du Bois in 1951; six poems by Yolande Du Bois; manuscript speeches and published articles by one of Du Bois' assistants, Hugh Smythe; handwritten and typed articles and speeches by others; and printed materials dealing in the main with the status, education, and economics of Blacks.
+</p>
+</scopecontent>
+</c01>
+<c01 level="series">
+<did>
+<unittitle><extref href="http://www.library.umass.edu/spcoll/ead/mums312_17.htm">Series 17. Photographs</extref></unittitle><unitdate>1864-1963</unitdate>
+<physdesc>
+<extent>2.5 linear feet</extent>
+</physdesc>
+<physdesc>Microfilm reel 89</physdesc>
+</did>
+<arrangement>
+<p>The photographs are arranged in three groups.</p>
+</arrangement>
+<scopecontent>
+<p>First are several hundred photographs that Du Bois solicited for publication in The Crisis: photographs of Black children, Black recipients of college degrees and honors, and Blacks in important positions. This series of photographs published in The Crisis is Du Bois' contribution to, and probably the initiation of, the marshaling of evidence that "Black is beautiful." Almost all of the photographs are identified on the backs and in the Selective Item List in the finding aid. The second group is just under two hundred Du Bois family and personal photographs, including one album arranged in roughly chronological order. Some of the most-photographed trips and other events in Du Bois' life have been arranged, together with photographs on other specific topics, among the approximately three hundred photographs in the third group, "Theme" photographs.
+</p>
+</scopecontent>
+</c01>
+<c01 level="series">
+<did>
+<unittitle><extref href="http://www.library.umass.edu/spcoll/ead/mums312_18.htm">Series 18. Memorabilia</extref></unittitle><unitdate>1913-1963</unitdate>
+<physdesc>
+<extent>0.5 linear feet</extent>
+</physdesc>
+<physdesc>Microfilm reel 89</physdesc>
+</did>
+<scopecontent>
+<p>This series comprises medals, badges, and certificates of honorary and earned degrees and other awards and honors. There are nearly one hundred items, ranging from class reunion badges to the Spingarn Medal won by Du Bois in 1920, the Du Bois Medal created in his honor by the American Negro Commemorative Society, the Lenin Medal, and certificates of election to Phi Beta Kappa, honorary degrees from universities in the United States and abroad, and election to the National Institute of Arts and Letters in 1944.
+</p>
+</scopecontent>
+</c01>
+<c01 level="series">
+<did>
+<unittitle><extref href="http://www.library.umass.edu/spcoll/ead/mums312_19.htm">Series 19. Motion Pictures and Tapes</extref></unittitle><unitdate>1958-1979</unitdate>
+<physdesc>
+<extent>2.5 linear feet</extent>
+</physdesc>
+</did>
+<scopecontent>
+<p>Motion pictures and videotape copies of Du Bois receiving honorary degree in Prague in 1958 and visiting Premier Chou En-lai, Vice-Premier Chen Yi, Chairman Mao Tse-tung, and others in China in 1959; and of the dedication in 1969 and dedication as a National Historic Landmark in 1979 of Du Bois' homesite in Great Barrington, Massachusetts. Audiotapes of the burial service of Du Bois, August 29, 1963 and tribute by Kwame Nkrumah.
+</p>
+</scopecontent>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Series 20. Newspaper Clippings</unittitle><unitdate>1901-1955, n.d.</unitdate>
+<physdesc>
+<extent>3 linear feet</extent>
+</physdesc>
+</did>
+<scopecontent>
+<p>The collection of newspaper clippings about Du Bois and subjects of interest to him (currently unorganized).
+</p>
+</scopecontent>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Series 21. Copies of Du Bois materials from other locations</unittitle><unitdate>1870-1983</unitdate>
+<physdesc>
+<extent>6 linear feet</extent>
+</physdesc>
+</did>
+<scopecontent>
+<p>Copies of Du Bois materials were obtained by the staff of Special Collections and University Archives from other archival sources and by donation from individuals.  Much of the latter was donated by Herbert Aptheker and was used by him in the preparation of his three-volume edition of The Correspondence of W.E.B. Du Bois (University of Massachusetts Press).  Copies Aptheker furnished usually include a note from him describing the documents and indicating their sources.  Types of materials in this series are: correspondence; U.S. government files; manuscripts and transcripts by Du Bois of speeches, articles, student papers and plays; transcripts of conversations; town records; microfilm copies of papers in other collections, of journals to which Du Bois contributed, and of exhibition materials compiled by Du Bois; published material by Du Bois not in the collection; articles about Du Bois; bibliographies; and guides to Du Bois materials in other collections.
+</p>
+</scopecontent>
+</c01>
+
+<c01 level="series">
+<did>
+<unittitle><extref href="http://www.library.umass.edu/spcoll/ead/mums312_22.htm">Series 22. Accretions to the Du Bois Papers</extref></unittitle><unitdate>1890-1963</unitdate>
+<physdesc>
+<extent>3.25 linear feet</extent>
+</physdesc>
+</did>
+<scopecontent>
+<p>The W.E.B. Du Bois Papers were acquired by University of Massachusetts Amherst from Du Bois's widow, Shirley Graham Du Bois, in 1973. At that time the bulk of the collection, more than 175 linear feet of material, was transferred to the Special Collections and University Archives. Over the next few years additional materials were acquired, mostly letters, writings, and photographs, from Herbert Aptheker, editor of Du Bois's collected works. As the Du Bois Papers were publicized and used by researchers worldwide, other additions to the collection were made; these consisted chiefly of published articles and newspaper clippings relating to Du Bois's legacy in Great Barrington and at UMass Amherst.</p>
+</scopecontent>
+</c01>
+</dsc>
+</archdesc>
+</ead>

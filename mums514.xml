@@ -1,0 +1,5394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="print.xsl" type="text/xsl"?>
+
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../../dtds/ead.dtd">
+
+<ead>
+<eadheader langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" audience="internal" id="head" relatedencoding="MARC21">
+
+<eadid publicid="-//us::mu//TEXT us::mu::mums525.xml//EN" countrycode="us" mainagencycode="mu">mums514</eadid>
+
+<filedesc>
+<titlestmt>
+<titleproper encodinganalog="245$a">
+Carl Oglesby Papers, 1942-2005</titleproper>
+<subtitle>Finding Aid</subtitle>
+<author encodinganalog="245$c">Dominique Tremblay</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">Special Collections and University Archives</publisher>
+<address>
+<addressline>W.E.B. Du Bois Library</addressline>
+<addressline>University of Massachusetts Amherst</addressline>
+<addressline>Amherst, MA</addressline>
+</address>
+<date encodinganalog="260$c" normal="2007">2007</date>
+<p>University of Massachusetts Amherst. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+
+
+<profiledesc>
+<creation encodinganalog="500">Finding aid encoded in NoteTab Pro. Encoded by Danielle Kovacs.
+<date>200710-29</date>
+</creation>
+<langusage>Finding aid written in
+<language encodinganalog="546" langcode="eng" scriptcode="latn">English</language>
+</langusage>
+</profiledesc>
+</eadheader>
+
+
+<archdesc level="collection" relatedencoding="MARC21">
+<did id="main">
+<origination label="Creator:">
+<persname encodinganalog="600" source="lcnaf">Oglesby, Carl, 1935-</persname> 
+</origination>
+<unittitle label="Title:" encodinganalog="245$a">Carl Oglesby Papers</unittitle>
+<unitdate type="inclusive" label="Dates:" normal="1941/2005">1942-2005</unitdate>
+<unitid label="Collection Number:" encodinganalog="099" countrycode="us" repositorycode="mu">MS 514</unitid>
+<physdesc label="Quantity:">
+<extent encodinganalog="300$a">63 boxes</extent>
+<extent encodinganalog="300$a">(32.5 linear ft.)</extent>
+</physdesc>
+<langmaterial label="Language of Material:" encodinganalog="546"><language langcode="eng">English</language></langmaterial>
+<repository label="Location:">
+<corpname>Special Collections and University Archives, W.E.B. Du Bois Library, University of Massachusetts Amherst</corpname>
+</repository>
+<abstract encodinganalog="520$a" label="Abstract:">
+Reflective, critical, and radical, Carl Oglesby was an eloquent voice of the New Left during the 1960s and 1970s. A native of Ohio, Oglesby was working in the defense industry in Ann Arbor, Michigan, in 1964 when he became radicalized by what he saw transpiring in Vietnam. Through his contacts with the Students for a Democratic Society, he was drawn into the nascent antiwar movement, and thanks to his formidable skills as a speaker and writer, rose rapidly to prominence. Elected president of the SDS in 1965, he spent several years traveling nationally and internationally advocating for a variety of political and social causes.
+<lb />In 1972, Oglesby helped co-found the Assassination Information Bureau which ultimately helped prod the U.S. Congress to reopen the investigation of the assassination of John F. Kennedy. A prolific writer and editor, his major works include <title render="italic">Containment and Change</title> (1967), <title render="italic">The New Left Reader</title> (1969), <title render="italic">The Yankee and Cowboy War</title> (1976), and <title render="italic">The JFK Assassination: The Facts and the Theories</title> (1992). The Oglesby Papers include research files, correspondence, published and unpublished writing, with the weight of the collection falling largely on the period after 1975.</abstract>
+</did>
+
+
+
+<bioghist id="bioghist">
+<head>Background Note</head>
+
+<p>An activist, writer, lecturer and teacher, Carl Oglesby has participated in, written about, and analyzed some of the most important events in the recent history of the United States.  His experiences before, during and after the Vietnam War as a political activist changed the trajectory of his own life and contributed significantly to the American political discourse on many subjects such as Vietnam War, Watergate, World War II, and the assassinations of John F. Kennedy, Robert Kennedy, and Martin Luther King.  In his long career as writer and activist he has addressed many issues, spoken at hundreds of universities and protests as well as traveled the United States debating various political issues.</p>
+
+<p>Oglesby was born in 1935, an only child living first in Kalamazoo, Michigan and later in Akron, Ohio.  He was raised in a deep-South Christian Fundamentalist environment, one he both revered and resented, later in life referring to himself as a "silent Christian."  He attended Kent State University for almost four years in the mid-fifties during which time he married Beth Rimanoczy in Kent, Ohio.  In 1957, he left the university without receiving a degree.  During this time, Oglesby began writing plays.  His first play <title render="italic">Season of the Beast</title>, produced in Dallas, Texas in 1958, was promptly shut down for being a "Communistic Yankee atheist's attack on down-home religion."  Although Oglesby didn't know it at the time, this was not the last time he would be accused of being a Communist or an atheist.</p>
+
+<p>Despite his interest in playwriting, Oglesby sought out steady work.  He became a copy editor for Goodyear Aircraft Corporation for a year before moving to Ann Arbor, Michigan in 1958.  There, he headed the Technical Writing Division at Bendix Systems, a defense contractor, until 1965.   Although he befriended many people in Ann Arbor who were politically active, Oglesby shied away from engaging in much activism.  He felt proud of his middle class home on Sunnyside Road, his family and secure job, and was reluctant to challenge the establishment that employed him.  Even though Oglesby knew that Bendix was designing systems to distribute chemicals and poisons over the Vietnamese jungle, he "was not above" his work at Bendix.  He and Beth were fully prepared to raise their children in the American, middle-class tradition, even if it meant not being as politically active as they would have liked.</p>
+
+<p>In 1964, Oglesby began working as a writer for the Wes Vivian Congressional campaign.  At a meeting, he was asked to produce a position paper on the Vietnam War in the event the issue came up during the course of the campaign.  The paper Oglesby crafted not only provided him a crash course in Vietnamese history, but it also found its way into the University's literary magazine, <title render="italic">Generation</title>, along with his new play <title render="italic">The Peacemaker</title>.  The play depicted the classic feud between the Hatfields and the McCoys, and the inclusion of Oglesby's position paper in the same magazine gave his play about an age-old family feud a modern, political twist.  More importantly, the unexpected publication of his position paper led him to his first introduction to Students for a Democratic Society (SDS), an introduction that would change the course of his life and force him to choose what role activism would play in it.</p>
+
+<p>Oglesby's first real ideological struggle with his middle-class lifestyle and career, however, came the previous year when President Kennedy was assassinated.  Despite the fact that he and his colleagues faced a looming deadline, Oglesby was concerned that the flag had not been lowered as a sign of respect to the fallen president.  When he tried to urge management at Bendix to lower the flag to half mast, he encountered a strange scene in which the executives seemed actually to be celebrating Kennedy's death.  Although Oglesby continued working at Bendix for several more years, he became more and more aware that his political sensibilities might be in conflict with his safe, middle-class lifestyle.  In particular, as the Vietnam War was becoming more an issue of public debate, Oglesby was forced to acknowledge that his nice, secure job in the defense industry might actually be contributing to it.  Indeed, his friends in Ann Arbor began to challenge him, asking how he could reconcile his job at Bendix with his own sense of values.  As it turns out, he couldn't.</p>
+<p>In 1965, Oglesby went with a friend to a meeting of the local SDS chapter.  At the time, SDS was in desperate need of literature to distribute in response to the many requests they received for information about Vietnam, and Oglesby's position paper soon became their official response.  Later that same year he traveled to Kewadin, Michigan to attend a national meeting of SDS. At this meeting, members hotly debated whether to eliminate the offices of president and vice president on the grounds that such roles were elitist.  Oglesby spoke out against the measure claiming that an elected national leader speaking on behalf of the group would be held accountable by its members, ensuring that the SDS message would not become diluted or confused.  Oglesby further argued that SDS needed a unified, national identity in order to ensure that all SDS chapters were working towards the same goals and the public was hearing the same consistent message.</p>
+<p>After voting to keep the national officers, the members moved to elect a new president for SDS.  According to Oglesby, he was nominated along with about a dozen other people.  After many of the nominees declined their nominations and two rounds of balloting, Oglesby was finally elected.  Although he had only attended a few meetings, he was now the national president of SDS.  Having no idea of the drastic turn his life was about to take, Oglesby returned home and began his year-long tenure as the president of the most radical student organization in America.</p>
+<p>This unexpected turn of events caused great upheaval for the Oglesby family.  As president of SDS, Oglesby traveled constantly giving speeches, attending meetings, and organizing political protests.  He even traveled to Cuba and North Vietnam with SDS.  Within months of his appointment as president, the F.B.I. began following him and building an extensive file on him, his family, friends and fellow SDS members.  SDS was often accused of being a communist organization because of their political beliefs and the way they chose to organize themselves.  It was a huge transition for Oglesby to go from having a secure, white collar job in the defense industry to being the spokesman for a radical student organization.  The stress only intensified as Oglesby was away from home more and having a hard time balancing his lifestyle as the president of SDS with his family's needs.  He and Beth moved from Ann Arbor to San Francisco hoping to alleviate some of their stress, but the pressure was too much and they ultimately divorced in the late-sixties.</p>
+<p>In addition to his family problems, Oglesby had a hard time understanding the accusations leveled against SDS, later observing, "I was never a radical, I just believed in democracy."  For Oglesby, the government's refusal to even debate the issues that SDS and other organizations were raising demonstrated sheer hypocrisy.  How could the U.S. be so aggressive in trying to spread "democracy" in Vietnam while actively silencing their own citizens?  He was appalled that the government spied on him and other members of SDS, while also attempting to infiltrate the organization.  Oglesby recalls that many members grew distrustful of one another as it became more apparent that some SDS "members" were actually FBI agents.  In many cases these agents were the ones who advocated for a violent response or protest, and over time this became the tell-tale sign that someone was working for the government.</p>
+<p>Although Oglesby only served as president of SDS for fifteen months, he remained active in the organization for several years.  He grew very close to fellow SDS member Bernadine Dohrn and was unhappy in 1969 when she, along with other key members of the group, decided that SDS's principle of engaging only in non-violent protest was no longer an effective way to achieve their goals.  Dohrn thought that the antiwar movement had embraced nonviolence long enough, and that "symbolic violence" was the only way to make the government pay attention.  She and others, including her future husband Bill Ayers, seized control of the SDS national office and formed the Weather Underground Organization.  The Weathermen, as they were known, began to bomb post offices and other government properties.  Despite their adamance that their use of violence was meant to bring attention to their cause by harming buildings and not people, their plan backfired in 1971 when three of their own members died in an explosion in a Greenwich Village safe house.</p>
+
+<p>For Oglesby, the Weatherman's actions were synonymous with the death of SDS. Although, the individual chapters of SDS continued to grow, the national office, now under the control of the Weathermen, ceased to exist.  Oglesby vehemently disagreed that SDS had lost its power, but with the core organizers leaving, there was little he could do to save SDS on a national level.  Over the years, Oglesby wrote several articles about the decline of SDS in which he defended the group not only for leading the way on important issues of the day, but for promoting debate and discussion as a means of educating people about the United States government, the Vietnam War, and the political ideology of the New Left.</p>
+
+<p>As Oglesby moved away from SDS, he was not interested in resuming his secure, middle-class lifestyle.  In 1972, he co-founded the Assassination Information Bureau (AIB), which led a successful public campaign urging Congress to revisit the investigations into the assignations of John F. Kennedy, Robert Kennedy and Martin Luther King, Jr.  He was also involved in AIB efforts in Washington, D.C. to force the release of government documents relating to the assassinations.  During this period, Oglesby continued to write, working for the <title render="italic">Boston Phoenix</title> and <title render="italic">Boston Magazine</title> as a regular contributor and editor.  Indeed, Oglesby was a prolific writer throughout the 1970s, publishing <title render="italic">The Yankee and Cowboy War: Conspiracies from Dallas to Watergate</title> in 1976, and writing numerous other articles that appeared in magazines such as <title render="italic">Playboy</title>, <title render="italic">The Washington Post</title>, <title render="italic">The Nation</title>, <title render="italic">Life</title>, the <title render="italic">Saturday Review</title>, <title render="italic">Dissent</title> and the <title render="italic">Boston Globe</title>.  In addition to his political and social commentary he also served as the annual report writer at Massachusetts General Hospital from 1981-1988.</p>
+
+<p>By the late 1980s, Oglesby was fully immersed in research relating to the end of World War II, research he first conducted while writing <title render="italic">The Yankee and Cowboy War</title>.  In 1988, he formed the Institute for Continuing De-Nazification aimed at organizing efforts to bring full public disclosure to top-secret government documents containing information about the relationship between the Gehlen Organization, formerly the intelligence network of West Germany, and the U.S. government.  Oglesby filed suit against various agencies in the federal government claiming the intelligence documents should be publicly available under the Freedom of Information Act.  With the help of attorney James Lesar, this lawsuit has been moving through the federal court system for over two decades, resulting in the release of thousands of pages of classified, top-secret government documents.  These documents form the backbone of Oglesby's research on the Gehlen Organization and the post-Worl War II settlement between Germany and the United States.  Although, Oglesby has yet to publish a full-length book on this topic, he has lectured and written several extensive articles in this subject.</p>
+
+<p>Oglesby continues to write and speak about political issues, often drawing parallels between the currant political controversies and those that SDS faced more than three decades ago.  His experiences have proved invaluable to a new generation of political activists who are asking many of the same questions that Oglesby faced when he joined SDS in 1965.  After many years of silence, new SDS chapters are popping up across the country drawing the old ideals of "New Left" to push their political agenda forward.</p>
+
+
+</bioghist>
+
+
+<scopecontent id="scope">
+
+<p>Much of Carl Oglesby's life has been spent considering and commenting on the political climate.  From his 1962 play <title render="italic">The Peacemaker</title> to his extensive research on the Gehlen Organization, Oglesby has never been shy voicing his opinion about our government and the people who work in it.  His papers chronicle the various issues and topics in which he has taken an interest over the past forty years, including the Gehlen Organization, the Vietnam War, the assassinations of John F. Kennedy, Robert Kennedy and Martin Luther King, Jr., and America's post-World War II struggle for political power between the established elites of the North and the emerging ruling class of the South and West, which he defined as the "Yankee and Cowboy War."</p>
+
+<p>The collection contains Oglesby's drafts, notes, outlines, correspondence, writing fragments, manuscripts, and research materials like articles, book excerpts, newspaper clippings, and interviews.  F.B.I. and C.I.A. documents pertaining to the Gehlen Organization and Oglesby's work with SDS are included as are the legal papers that document the lawsuit he filed to obtain these classified materials.  Also present are notes, research materials and drafts relating to his memoir, referred to early on as "Ravens on the Wing," but published as <title render="italic">Ravens in the Storm</title> in 2008.  Finally, correspondence, family histories, and photographs provide some insight into Oglesby's personal life.</p>
+
+
+</scopecontent>
+
+
+
+<accessrestrict id="admin-access">
+<p>The collection is open for research.</p>
+</accessrestrict>
+
+
+<separatedmaterial><p>Books in the Carl Oglesby Papers were separated from the collection and cataloged individually in the Special Collections.</p>
+<list>
+<item>Altizer, Thomas J. and William Hamilton. <title render="italic">Radical Theology and the Death of God</title>. Indianapolis: Bobbs-Merrill Company, Inc., 1966.</item>
+<item>Armstrong, Karen. <title render="italic">The Battle for God</title>. New York: Ballantine Books, 2001.</item>
+<item>Bamford, James. <title render="italic">Body of Secrets: Anatomy of the Ultra-Secret National Security Agency from the Cold War through the Dawn of a New Century</title>. New York: Doubledy, 2001.</item>
+<item>Baxandall, Lee, ed. <title render="italic">Radical Perspectives in the Arts</title>. Baltimore: Penguin Books, 1972.</item>
+<item><title render="italic">Be Now Here</title>. New York: The Lama Foundation, 1917.</item>
+<item>Brandon, S.G.F. <title render="italic">Jesus and the Zealots: A Study of the Political Factor in Primitive Christianity</title>. New York: Charles Scribner's Sons. 1967.</item>
+<item>Brueggemann, Walter. <title render="italic">The Bible Makes Sense</title>. Louisville: Westminster John Knox Press, 2001.</item>
+<item>Coppola, Vincent. <title render="italic">Dragons of God: A Journey Through Far-Right America</title>. Atlanta: Longstreet Press, Inc., 1996.</item>
+<item>Cox, Harvey. <title render="italic">Fire from Heaven: The rise of Pentecostal Spirituality and the Reshaping of Religion in the Twenty-first Century</title>. Reading, Mass.: Addison-Wesley Publishing Company, 1995.</item>
+<item>Cox, Harvey. <title render="italic">Many Mansions: A Christian's Encounter with Other Faiths</title>. Boston: Beacon Press, 1988.</item>
+<item>Diamond, Sigmund. <title render="italic">Compromised Campus: The Collaboration of Universities with the Intelligence Community, 1945-1955</title>. New York: Oxford University Press, 1992.</item>
+<item>Eck, Diana L. <title render="italic">Encountering God: A Spiritual Journey from Bozeman to Banaras</title>. Boston: Beacon Press, 2003.</item>
+<item>Eck, Diana l. <title render="italic">A New Religious America: How a "Christian Country" has Become the World's Most Religiously Diverse Nation</title>. San Francisco: HarperSanFrancisco, 2001.</item>
+<item>Farren, Pat, ed. <title render="italic">Peacework : 20 years of Nonviolent Social Change</title>. Baltimore: Portkamp Publishing Company,1991.</item>
+<item>Grant, Michael. <title render="italic">Jesus: An Historian's Reviews of the Gospels</title>. New York: Charles Scribner's Sons, 1977.</item>
+<item>Johnston, Douglas and Cynthia Sampson. <title render="italic">Religion, the Missing Dimension of Stagecraft</title>. New York: Oxford University Press, 1994.</item>
+<item>Keating, Thomas. <title render="italic">The Human Condition: Contemplation and Transformation</title>. New York: Paulist Press, 1999.</item>
+<item><title render="italic">Klaus Barbie and the United States Government: Exhibits to the Report to the Attorney General</title>. Washington, D.C.: U.S. Department of Justice, 1983.</item>
+<item>Lee, Martin A. <title render="italic">The Beast Reawakens</title>. Boston: Little, Brown and Company,1997.</item>
+<item><title render="italic">Liturgy of the Buddhism of Nichiren Daishonim</title>. Printed in the U.S.: Soka Gakkai International, 1992.</item>
+<item>Mauriac, Francois. <title render="italic">Life of Jesus</title>, translated by Julie Kernan. New York: Avon Book Division, 1937.</item>
+<item>Millegan, Kris, ed. <title render="italic">Fleshing Out Skull &amp; Bones: Investigations into America's Most Powerful Secret Society</title>. Walterville, Orgeon: TrineDay, 2003.</item>
+<item><title render="italic">The New Covenant Commonly Called the New Testament of Our Lord and Savior Jesus Christ</title>. Rev. standard ed. New York: Thomas Nelson &amp; Sons, 1946.</item>
+<item>Oglesby, Carl, ed. <title render="italic">The New Left Reader</title>. New York: Grove Press, Inc., 1969.</item>
+<item>Oglesby, Carl. <title render="italic">The Yankee and Cowboy War: Conspiracies from Dallas to Watergate</title>. Kansas City: Sheed Andrews and McNeel, Inc., 1976.</item>
+<item>Oglesby, Carl and Richard Shaull. <title render="italic">Amerikanisch Ideologie Zwei Studien uber Politik und Gesellschaft in den USA</title>. Frankfurt: Suhrkamp Verlag, 1969.</item>
+<item>Oglesby, Carl and Richard Shaull. <title render="italic">Containment and Change: Two Dissenting Views of American Foreign Policy</title>. New York: Macmillan Company, 1967.</item>
+<item>Oglesby, Carl and Richard Shaull. <title render="italic">Containment and Change: Two Dissenting Views of American Foreign Policy</title>. New York: Macmillan Company, 1970.</item>
+<item>Oglesby, Carl and Richard Shaull. <title render="italic">Keerpunt Pleidooi voor revolutie</title>. Utrecht: Amboboeken, [1967?].</item>
+<item>Oglesby, Carl and Richard Shaull. <title render="italic">Reacao e Mundanca</title>. Rio de Janeiro: Paz e Terra, 1968.</item>
+<item>Pyle, Christopher. <title render="italic">Military Surveillance of Civilian Politics, 1967-1970</title>. New York: Garland Publishing, Inc., 1986.</item>
+<item>Riches, John. <title render="italic">The Bible: A Very Short Introduction</title>. Oxford: Oxford University Press, 2000.</item>
+<item>Schneir, Walter, ed. <title render="italic">Telling it Like it Was: The Chicago Riots</title>. New York: Signet Books, 1969.</item>
+<item>Sutton, Anthony C. <title render="italic">How the Order Controls Education</title>. Bullsbrook, Australia: Veritas Publishing Company PTY, Ltd., 1985.</item>
+<item>Sutton, Anthony C. <title render="italic">How the Order Creates War and Revolution</title>. Bullsbrook, Australia: Veritas Publishing Company PTY, Ltd., 1985.</item>
+<item>Sutton, Anthony C. <title render="italic">An Introduction to the Order</title>. Phoenix: Research Publications, 1983.</item>
+<item>Sutton, Anthony C. <title render="italic">The Secret Cult of the Order</title>. Bullsbrook, Australia: Veritas Publishing Company PTY, Ltd., 1983.</item>
+<item>Timberg, Robert. <title render="italic">The Nightingale's Song</title>. New York: Simon &amp; Schuster, 1995.</item>
+<item>Wasserman, James, ed. <title render="italic">Aleister Crowley and the Practice of the Magical Diary</title>. Phoenix: New Falcon Publications, 1993.</item>
+<item>Weinberg, Bill. <title render="italic">George Bush: The Super-Spy, Drug-Smuggling President</title>. New York: Shadow Press, 1992</item>
+
+
+
+</list>
+
+</separatedmaterial>
+
+
+<prefercite id="admin-cite">
+<p>Please use the following format when citing materials from this collection:</p>
+<p>Carl Oglesby Papers (MS 514). Special Collections and University Archives, W.E.B. Du Bois Library, University of Massachusetts Amherst.</p>
+</prefercite>
+
+<acqinfo id="admin-acqinfo">
+<p>Acquired from Carl Oglesby in 2005.</p> 
+</acqinfo>
+
+
+
+<processinfo><p>Collection was processed by Dominique Tremblay.</p></processinfo>
+
+
+<controlaccess id="subj">
+<persname encodinganalog="600" source="lcnaf">Oglesby, Carl, 1935-</persname>
+<persname encodinganalog="600" source="lcnaf">Kennedy, John F. (John Fitzgerald), 1917-1963--Assassination</persname>
+<persname encodinganalog="600" source="lcnaf">Gehlen, Reinhard, 1902-1979</persname>
+<persname encodinganalog="600" source="lcnaf">King, Martin Luther, Jr., 1929-1968</persname> 
+<corpname encodinganalog="610" source="lcsh">Students for a Democratic Society (U.S.)</corpname> 
+<corpname encodinganalog="610" source="lcsh">Assassination Information Bureau</corpname> 
+<subject encodinganalog="650" source="lcsh">Student movements</subject>
+<subject encodinganalog="650" source="lcsh">Vietnam War, 1961-1975</subject>
+<subject encodinganalog="650" source="lcsh">Pacifists</subject>
+<subject encodinganalog="650" source="lcsh">Political activists</subject>
+<subject encodinganalog="650" source="lcsh">Watergate Affair, 1972-1974</subject>
+<subject encodinganalog="650" source="lcsh">Political corruption--United States</subject>
+<geogname encodinganalog="651" source="lcsh">United States--Foreign relations</geogname> 
+</controlaccess>
+
+
+
+
+
+<dsc type="analyticover" id="contlist">
+<c01 level="series">
+<did>
+<unittitle>Series 1: Students for a Democratic Society (SDS)</unittitle>
+<unitdate>1965-2005</unitdate>
+</did>
+<scopecontent>
+<p>Students for a Democratic Society (SDS), the most radical student organization of the 1960s, held its first meeting in Ann Arbor, Michigan in 1960.  Two years later SDS adopted as its manifesto the Port Huron Statement drafted by Tom Hayden, which identified poverty and civil rights as the group's primary concerns, and the Cold War and peace, issues that would later take on a more central role, as secondary concerns.  The group's commitment to "participatory democracy" quickly catapulted them to the forefront of the New Left political movement, resulting in aggressive surveillance by the F.B.I.  In fact, the bulk of this series consists of F.B.I. files documenting Oglesby's every move during his time with SDS and continuing for many years after.  Individuals who associated themselves with the New Left, in particular members of SDS, were often accused of being Communists.  Frequent trips to Cuba by SDS members, including Oglesby, did little to dispel this notion.</p>
+
+<p>The bulk of this series is made up of copies of F.B.I. surveillance records tracing Oglesby's movements both during and after his term as SDS president.  Also included are articles about SDS and the Weatherman by Oglesby and others, newspaper clippings, correspondence, interviews with former SDS people, speeches given by Oglesby, and notes.</p>
+</scopecontent>
+
+
+</c01>
+
+<c01 level="series">
+<did>
+<unittitle>Series 2: JFK Assassination</unittitle>
+<unitdate>1964-2005</unitdate>
+
+</did>
+
+<scopecontent>
+<p>An internationally recognized authority on the assassination of John F. Kennedy, Oglesby has written and lectured on the topic extensively.  As a founding member of the Assassination Information Bureau (AIB) in 1972, he played a critical role in raising public awareness about the inconsistencies among eyewitness accounts, film evidence, and published reports of the assassintation, most notably in the findings of the Warren Commission released in 1964.  After the Watergate scandal and Nixon's resignation in 1974, the AIB continued to demand the release of previously restricted documents, calling for the accountability of U.S. intelligence agencies.  Indeed, the group is often credited with prompting the 1976 Congressional reinvestigation into the assassinations of Kennedy and Martin Luther King, Jr.</p>
+<p>A large portion of the series consists of materials relating to the AIB, including correspondence, bibliographies, reports, and the group's newsletter, <title render="italic">Clandestine America</title>.  Oglesby was one of a few AIB members to travel throughout the country as a part of the group's "Who Killed JFK?" program, which sought to inform the public, especially college students, of inaccuracies and inconsistencies found in published reports of the assassination.  Documenting his involvement in this program are lecture scripts, notes, and publicity flyers promoting speaking engagements.  Oglesby's typescript drafts and published articles are central to understanding the evolution of his thoughts about the assassination and its cover up.  The various versions of articles and books included among these materials can be seen as culminating in the book proofs for Oglesby's 1992 work, <title render="italic">Who Killed JFK?</title>.  Finally, his personal correspondence received after the December 1991 release of Oliver Stone's film <title render="italic">JFK</title> and the numerous articles by other authors submitted for his review illustrate Oglesby's central role in uncovering the truth about the JFK assassination.</p>
+
+</scopecontent>
+
+
+</c01>
+
+<c01 level="series">
+<did>
+<unittitle>Series 3: Yankee and Cowboy War</unittitle>
+<unitdate>1970-2002</unitdate>
+
+</did>
+
+<scopecontent>
+<p>In one of Oglesby's most widely known political theories, referred to as the "Yankee and Cowboy War," he depicts Northern, old money "Yankees" and Southern and Western, new money "Cowboys" in a struggle for power and dominance in post-World War II America.  His book named for the theory traces the effects of this political struggle from the Bay of Pigs incident in 1961 to Watergate in 1973-1974.</p>
+<p>In the book, Oglesby claims that the failure of the Bay of Pigs Invasion was the result of internal conflict in Washington, namely the shaky coalition between President John F. Kennedy (Yankee) and Vice President Lyndon B. Johnson (Cowboy).  Oglesby further claims that this uneasy alliance between the North and South resulted in the escalation of the Vietnam War, as well as other foreign policy disasters that plagued the administration before and after Kennedy's death.  Oglesby refers to the Vietnam War as a "Cowboy War," which ultimately resulted in such high level pressure from "top class Yankee gunslingers," such as Defense Secretary Clark Clifford, that Johnson was unable to seek re-election.  He also examines events such as the suspicious Watergate plane crash that killed Dorothy Hunt, the wife of Watergate conspirator E. Howard Hunt, the possibility that James McCord, also a Watergate conspirator, was a double agent, the assassination of John F. Kennedy, and Howard Hughes' relationship with the United States government.</p>
+<p>The series contains materials relating to Oglesby's book, such as drafts of the manuscript, research materials including articles and newspaper clippings, correspondence concerning its publication, and published reviews.</p>
+</scopecontent>
+
+
+
+</c01>
+
+<c01 level="series">
+<did>
+<unittitle>Series 4: Gehlen Organization</unittitle>
+<unitdate>1945-2005</unitdate>
+
+</did>
+
+<scopecontent>
+<p>For more than three decades, Oglesby researched the Gehlen Organization and its role in post-World War II America.  As the war came to a close, top-ranking Nazi officials scrambled to find a way out of Germany.  One such official was Reinhard Gehlen, the head of the Former Armies East (FHO) in the German Army Headquarters, also known as the Gehlen Organization.  This was an important branch of the Nazi intelligence system that oversaw all intelligence and military operations throughout Eastern Europe and the Soviet Union.  This arm of Soviet intelligence was particularly powerful because of Gehlen's close association with and influence over Foreign Armies West and the Odessa.  The Odessa was arguably the Nazi's greatest organizational achievement because it not only controlled the SS and Gestapo but also set up "rat lines" which allowed thousands of Nazi officials to escape Germany after the war.</p>
+
+<p>The U.S. government, anxious to achieve a reliable intelligence network to spy on the Soviet Union, was not opposed to making a deal with Gehlen to acquire his West German intelligence network in exchange for allowing Nazis to quietly escape Germany after the war.  The FHO, after all, was the only organization in the Third Reich that gained power and recruits even as the war was winding down. On August 24, 1945, one week after the Nazi's "unconditional surrender," Gehlen arrived in Washington D.C. to sell his organization to the United States and buy himself a way out of Germany.</p>
+
+<p>The meeting in Fort Hunt, Virgina, ended with a "gentleman's agreement" to employ Gehlen as an official in the newly formed C.I.A., for which Gehlen worked until 1968.  Gehlen himself spelled out the terms of this agreement in his book, <title render="italic">The Service: The Memoirs of Reinhard Gehlen</title>, which has come under intense criticism for being inaccurate.  Nonetheless, according to Gehlen, "The Secret Treaty at Fort Hunt" essentially merged Nazi Gehlen Organization and U.S. intelligence with the understanding that although the Germans and Americans would be working "jointly," the United States would provide complete funding for all activities.  Interestingly, according to Gehlen, it was also understood that should German and American interests come into conflict with each other, the Gehlen Organization would "consider Germany first."  This conflict of interest presented itself almost immediately as the post-war hunt for Nazi war criminals began and tensions between the Soviet Union and the United States escalated.</p>
+
+<p>Oglesby's interest in the Gehlen Organization ultimately resulted in a lawsuit against the federal government.  In the suit (Carl Oglesby v. Department of the Army, et al), he claims the government refused to release documents that should be open to the public under the Freedom of Information Act.  This lawsuit has been circulating through the court system for almost twenty years and has forced various governmental agencies to release thousands of pages of previously "classified" and "top secret" documents to Oglesby.  Oglesby's counsel in this matter, James Lesar, specializes in litigation pertaining to the Freedom of Information Act, and has logged thousands of hours over the years fighting for the release of documents pertaining to World War II, the Gehlen Organization, and former Nazi government officials and military officers.</p>
+
+<p>Numerous drafts of articles, book excerpts and lectures are included in this series, although it should be noted that Oglesby has yet to publish a complete book on this topic.  An extensive article by Oglesby, "The Secret Treaty of Fort Hunt," was published in <title render="italic">Prevailing Winds</title> magazine.  A considerable portion of his research materials are also included in this series.  These consist of articles, newspaper clippings, book excerpts, correspondence, charts drawn by Oglesby explaining the complicated connections between the various government agencies and people, government reports, and intelligence documents obtained by Lesar under the Freedom of Information Act.</p>
+</scopecontent>
+
+</c01>
+
+<c01 level="series">
+<did>
+<unittitle>Series 5: Other Writings</unittitle>
+<unitdate>1959-2004</unitdate>
+</did>
+
+<c02>
+<did>
+<unittitle>Ravens on the Wing</unittitle>
+<unitdate>1959-2003</unitdate>
+</did>
+<scopecontent>
+<p>This subseries contains drafts and research material for Oglesby's memoir, "Ravens on the Wing."  In it he covers, in detail, the move away from his middle class life as a technical copy editor in the defense industry, his experiences as president of SDS, which include his relationship with Weatherman founder Bernadine Dohrn, trips to Cuba and North Vietnam, and his travels around the country giving speeches for SDS.  He also discusses the painful period when the Weatherman split from SDS and his own experiences with SDS after.</p>
+<p>Included in this subseries are numerous drafts of the memoir, published in 2008 as <title render="italic">Ravens in the Storm</title>.  Also included is correspondence concerning the book, newspaper clippings, articles, writing fragments, notes, and some photographs from Oglesby's trip to Cuba.</p>
+
+</scopecontent>
+</c02>
+
+<c02>
+<did>
+<unittitle>Miscellaneous Writings and Research</unittitle>
+<unitdate>1961-2002</unitdate>
+</did>
+<scopecontent>
+<p>This series, more than any other, chronicles Oglesby prodigious writing career.  He has written extensively on SDS, the New Left, the JFK assassination, Vietnam, Watergate, and his theory of the Yankee-Cowboy war. Although the bulk of Oglesby's writing is political in nature, he has written about many things that range from discussions of the New Left, the war in Vietnam, critiques of teach-ins, literature, Cuba, Boston public transit, Boston University, genetic engineering, farms in America and many verses of unpublished poetry.  Also included in this subseries is correspondence with people like Noam Chomsky, academic papers from Oglesby's undergraduate career and Oglesby's 1965 paper, "The Vietnam War: World Revolution and American Containment," which ultimately became the SDS position paper for the Vietnam War.</p>
+</scopecontent>
+</c02>
+
+<c02>
+<did>
+<unittitle>Religion</unittitle>
+<unitdate>1971-2004</unitdate>
+</did>
+<scopecontent>
+<p>Although Oglesby has not written as extensively on religion, he has maintained his interest in it over the years, publishing two articles on the subject, "Rescuing Jesus from the Cross" (1983) and "Art at the Apocalypse" (1982).  His unpublished manuscript "The Sermons of Judas" is also included along with research materials relating to this manuscript and other religious items such as church programs, flyers, and eulogies.</p>
+</scopecontent>
+</c02>
+
+</c01>
+
+<c01 level="series">
+<did>
+<unittitle>Series 6: Personal</unittitle>
+<unitdate>1942-2003</unitdate>
+
+</did>
+
+<scopecontent>
+<p>Oglesby's personal correspondence with various family members, business associates, and friends, as well as documents relating to his publishing contracts, photographs, announcements, invitations, and various printed materials and newspaper clippings.  Also contains materials relating to Oglesby's work with the Center for Strategic and International Studies.</p>
+</scopecontent>
+
+</c01>
+
+
+<c01 level="series">
+<did>
+<unittitle>Series 7: Audio-Visual</unittitle>
+<unitdate>1966-2000</unitdate>
+
+</did>
+
+<scopecontent>
+<p>Both as president of SDS and later as a founder of the Assassination Information Bureau, Oglesby traveled around the country meeting people and giving talks.  His 1966 lecture at Antioch College is included here as are the numerous slides he used when delivering his presentations on the assassination of Kennedy.  Oglesby used audio and video recordings as part of his own research, compiling a collection of documentary's on the JFK assassination and Reinhard Gehlen and the Nazi connection to U.S. intelligence agencies.</p></scopecontent>
+
+</c01>
+
+
+</dsc>
+
+
+
+<dsc type="in-depth">
+
+<c01 level="series">
+<did>
+<unittitle>Series 1: Students for a Democratic Society (SDS)</unittitle>
+<unitdate>1965-2005</unitdate>
+</did>
+
+<c02>
+<did>
+<container type="box">1</container>
+<unittitle>Address list</unittitle>
+<unitdate>undated</unitdate>
+</did>
+</c02>
+
+
+<c02>
+<did>
+<container type="box">1</container>
+<unittitle>Articles: Dohrn, Bernadine, "The Split of the Weather Underground Organization"</unittitle>
+<unitdate>undated</unitdate>
+</did>
+</c02>
+
+<c02>
+<did>
+<container type="box">1</container>
+<unittitle>Articles: Lind, Michael, "Vietnam, the Necessary War: A reinterpretation of America's Most Disastrous Conflict"</unittitle>
+<unitdate>1999</unitdate>
+</did>
+</c02>
+
+
+<c02>
+<did>
+<container type="box">1</container>
+<unittitle>Articles: Oglesby, Carl, "The Death of SDS: Suicide or Murder?</unittitle>
+<unitdate>1974</unitdate>
+</did>
+</c02>
+
+
+<c02>
+<did>
+<container type="box">1</container>
+<unittitle>Articles: Radicalism in the United States</unittitle>
+<unitdate>2000-2003</unitdate>
+</did>
+</c02>
+
+<c02>
+<did>
+<container type="box">1</container>
+<unittitle>Articles: Shipler, David K., "Robert McNamera and the Ghost of Vietnam"</unittitle>
+<unitdate>1997</unitdate>
+</did>
+</c02>
+
+
+<c02>
+<did>
+<container type="box">1</container>
+<unittitle>Articles: "Towards a History of the New Left"</unittitle>
+<unitdate>1966</unitdate>
+</did>
+</c02>
+
+<c02>
+<did>
+<container type="box">1</container>
+<unittitle>Articles and books: Timberg, Robert, "The Nightingale's Song"</unittitle>
+<unitdate>1995</unitdate>
+</did>
+</c02>
+
+<c02>
+<did>
+<container type="box">1</container>
+<unittitle>Articles and newspaper clippings: Dohrn, Bernadine</unittitle>
+<unitdate>1985-1999</unitdate>
+</did>
+</c02>
+
+<c02>
+<did>
+<container type="box">1</container>
+<unittitle>Articles and writings: FBI repression of the New Left</unittitle>
+<unitdate>1973-1974, undated</unitdate>
+</did>
+</c02>
+
+<c02>
+<did>
+<container type="box">1</container>
+<unittitle>CIA files: SDS activities</unittitle>
+<unitdate>1973-1979</unitdate>
+</did>
+</c02>
+
+<c02>
+<did>
+<container type="box">1</container>
+<unittitle>Correspondence</unittitle>
+<unitdate>1979, 2001</unitdate>
+</did>
+</c02>
+
+<c02>
+<did>
+<container type="box">1</container>
+<unittitle>Correspondence: Intelligence Documentation Center</unittitle>
+<unitdate>1976</unitdate>
+</did>
+</c02>
+
+<c02>
+<did>
+<container type="box">1</container>
+<unittitle>Correspondence: Lesar, Jim</unittitle>
+<unitdate>2002-2005</unitdate>
+</did>
+</c02>
+
+<c02>
+<did>
+<container type="box">1</container>
+<unittitle>Correspondence: U.S. Government</unittitle>
+<unitdate>1974-1976</unitdate>
+</did>
+</c02>
+
+<c02>
+<did>
+<container type="box">1</container>
+<unittitle>Court documents: Carl Oglesby v. Department of Justice</unittitle>
+<unitdate>2002</unitdate>
+</did>
+</c02>
+
+
+
+<c02>
+<did>
+<container type="box">1</container>
+<unittitle>Essay: Simins, Robert, Alan, "SDS and the Limits of Pluralism: A Test Case of The 'Rules of the Game'"</unittitle>
+<unitdate>1982</unitdate>
+</did>
+</c02>
+
+   <c02>
+      <did>
+<container type="box">1</container>
+   <unittitle>FBI file: Oglesby, Carl</unittitle>
+         <unitdate>1966</unitdate>
+      </did>
+<scopecontent>
+	<p>Includes a summary of his work with SDS, transcripts of speeches and background information with Oglesby's annotations.</p>
+</scopecontent>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">2</container>
+         <unittitle>FBI files: SDS activities</unittitle>
+         <unitdate>1965</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">2</container>
+         <unittitle>FBI files: SDS activities</unittitle>
+         <unitdate>1965-1966</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">2</container>
+         <unittitle>FBI files: SDS activities</unittitle>
+         <unitdate>1965-1966</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">2</container>
+         <unittitle>FBI files: SDS activities</unittitle>
+         <unitdate>1965-1966</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">2</container>
+         <unittitle>FBI files: SDS activities</unittitle>
+         <unitdate>1965-1968</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">2</container>
+         <unittitle>FBI files: SDS activities</unittitle>
+         <unitdate>1965-1968</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">3</container>
+         <unittitle>FBI files: SDS activities</unittitle>
+         <unitdate>1965-1968</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">3</container>
+         <unittitle>FBI files: SDS activities</unittitle>
+         <unitdate>1965-1968</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">3</container>
+         <unittitle>FBI files: SDS activities</unittitle>
+         <unitdate>1965-1969</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">3</container>
+         <unittitle>FBI files: SDS activities</unittitle>
+         <unitdate>1965-1978</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">3</container>
+         <unittitle>FBI files: SDS activities</unittitle>
+         <unitdate>1966</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">4</container>
+         <unittitle>FBI files: SDS activities</unittitle>
+         <unitdate>1966-1968</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">4</container>
+         <unittitle>FBI files: SDS activities</unittitle>
+         <unitdate>1966-1968</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">4</container>
+         <unittitle>FBI files: SDS activities</unittitle>
+         <unitdate>1966-1969</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">4</container>
+         <unittitle>FBI files: SDS activities</unittitle>
+         <unitdate>1967-1968</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">4</container>
+         <unittitle>FBI files: SDS activities</unittitle>
+         <unitdate>1967-1968</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">4</container>
+         <unittitle>FBI files: SDS activities</unittitle>
+         <unitdate>1967-1969</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">5</container>
+         <unittitle>FBI files: SDS activities</unittitle>
+         <unitdate>1967-1969</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">5</container>
+         <unittitle>FBI files: SDS activities</unittitle>
+         <unitdate>1968</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">5</container>
+         <unittitle>FBI files: SDS activities</unittitle>
+         <unitdate>1968</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">5</container>
+         <unittitle>FBI files: SDS activities</unittitle>
+         <unitdate>1968</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">5</container>
+         <unittitle>FBI files: SDS activities</unittitle>
+         <unitdate>1968-1969</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">5</container>
+         <unittitle>FBI files: SDS activities</unittitle>
+         <unitdate>1969</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">5</container>
+         <unittitle>FBI files: SDS activities</unittitle>
+         <unitdate>1969</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">6</container>
+         <unittitle>FBI files: SDS activities</unittitle>
+         <unitdate>1969</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">6</container>
+         <unittitle>FBI files: SDS activities</unittitle>
+         <unitdate>1970-1973</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">6</container>
+         <unittitle>FBI files: SDS activities</unittitle>
+         <unitdate>1978</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">6</container>
+         <unittitle>Interview: Eynon, Bret</unittitle>
+         <unitdate>2000</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">6</container>
+<origination>Morrison, Bob</origination>
+         <unittitle>Interview: Oglesby, Carl</unittitle>
+         <unitdate>1985</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">6</container>
+         <unittitle>Newspaper clippings</unittitle>
+         <unitdate>1984-2003</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">6</container>
+         <unittitle>Newspaper clippings: COINTELPRO</unittitle>
+         <unitdate>1976-1984</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">6</container>
+         <unittitle>Notes</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">6</container>
+         <unittitle>Printed material</unittitle>
+         <unitdate>1982, 2001, undated</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">7</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>Publicity flyer for "When Students Made History!"</unittitle>
+         <unitdate>ca. 1980</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">7</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>Speech: "Let Us Share the Future"</unittitle>
+         <unitdate>1965</unitdate>
+      </did>
+   </c02>
+
+
+
+   <c02>
+      <did>
+<container type="box">7</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>Speech: "The Murder of President John Kennedy in 1963 and in 1968 of Rev. Martin Luther King and Senator Robert Kennedy"</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">7</container>
+<origination>Schaller, Thomas Alfred</origination>
+         <unittitle>Thesis: "Governmental Surveillance of the New Student Left in the USA and the Federal Republic of Germany in the Sixties"</unittitle>
+         <unitdate>1988</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">7</container>
+         <unittitle>Timeline</unittitle>
+         <unitdate>1969-1973</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">7</container>
+         <unittitle>Writing fragments</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+
+</c02>
+
+</c01>
+
+<c01 level="series">
+<did>
+<unittitle>Series 2: JFK Assassination</unittitle>
+<unitdate>1964-2005</unitdate>
+
+</did>
+
+<c02>
+<did>
+<container type="box">7</container>
+<origination>Anderson, Jack</origination>
+         <unittitle>"Report to President Bush: Who Murdered John F. Kennedy?"</unittitle>
+         <unitdate>ca. 1989</unitdate>
+      </did>
+   </c02>
+
+
+<c02>
+<did>
+<container type="box">7</container>
+<origination>Arisian, Khoren</origination>
+         <unittitle>"Day America Changed"</unittitle>
+         <unitdate>1983</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">7</container>
+<origination>Arisian, Khoren</origination>
+         <unittitle>"Dallas: Six Seconds That Changed History"</unittitle>
+         <unitdate>1983</unitdate>
+      </did>
+</c02>
+
+<c02>
+<did>
+<container type="box">7</container>
+<unittitle>Assassination Archives and Research Center</unittitle>
+<unitdate>1987-1999</unitdate>
+
+</did>
+</c02>
+
+<c02>
+<did>
+<container type="box">7</container>
+<unittitle>Assassination bibliography</unittitle>
+<unitdate>1975</unitdate>
+</did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">7</container>
+<origination>Assassination Information Bureau</origination>
+         <unittitle>"Background Briefing on Santos Trafficante"</unittitle>
+         <unitdate>circa 1975</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">7</container>
+<origination>Assassination Information Bureau</origination>
+         <unittitle>Bibliographies</unittitle>
+         <unitdate>circa 1975-1977</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">7</container>
+<origination>Assassination Information Bureau</origination>
+         <unittitle>Board of Directors</unittitle>
+         <unitdate>1977</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">7</container>
+<origination>Assassination Information Bureau</origination>
+         <unittitle>Certificates of registration</unittitle>
+         <unitdate>1975-1977</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">7</container>
+<origination>Assassination Information Bureau</origination>
+         <unittitle><title render="italic">Clandestine America</title></unittitle>
+         <unitdate>1977 July-Aug</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">7</container>
+<origination>Assassination Information Bureau</origination>
+         <unittitle><title render="italic">Clandestine America</title></unittitle>
+         <unitdate>1977 Sept-Oct</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">7</container>
+<origination>Assassination Information Bureau</origination>
+         <unittitle><title render="italic">Clandestine America</title></unittitle>
+         <unitdate>1977 Nov-Dec</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">7</container>
+<origination>Assassination Information Bureau</origination>
+         <unittitle><title render="italic">Clandestine America</title></unittitle>
+         <unitdate>1978 Jan-Feb</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">7</container>
+<origination>Assassination Information Bureau</origination>
+         <unittitle><title render="italic">Clandestine America</title></unittitle>
+         <unitdate>1978 Mar-Apr</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">7</container>
+<origination>Assassination Information Bureau</origination>
+         <unittitle><title render="italic">Clandestine America</title></unittitle>
+         <unitdate>1978 may-June</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">7</container>
+<origination>Assassination Information Bureau</origination>
+         <unittitle><title render="italic">Clandestine America</title></unittitle>
+         <unitdate>1978 Sept-Oct</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">7</container>
+<origination>Assassination Information Bureau</origination>
+         <unittitle><title render="italic">Clandestine America</title></unittitle>
+         <unitdate>1978 Nov-Dec/1979 Jan-Feb</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">7</container>
+<origination>Assassination Information Bureau</origination>
+         <unittitle><title render="italic">Clandestine America</title></unittitle>
+         <unitdate>1979 Mar-Apr/May-June</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">7</container>
+<origination>Assassination Information Bureau</origination>
+         <unittitle><title render="italic">Clandestine America</title></unittitle>
+         <unitdate>1979 July-Aug/Sept-Oct</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">7</container>
+<origination>Assassination Information Bureau</origination>
+         <unittitle><title render="italic">Clandestine America</title></unittitle>
+         <unitdate>1979 Nov-Dec/1980 Jan-Feb</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">7</container>
+<origination>Assassination Information Bureau</origination>
+         <unittitle>Coolidge Company, Inc.Mailing list consultants.
+            <unitdate>1975-1976</unitdate>
+         </unittitle>
+      </did>
+</c02>
+      <c02>
+         <did>
+<container type="box">8</container>
+<origination>Assassination Information Bureau</origination>
+            <unittitle>Correspondence</unittitle>
+            <unitdate>1977-1979</unitdate>
+         </did>
+      </c02>
+      <c02>
+         <did>
+<container type="box">8</container>
+<origination>Assassination Information Bureau</origination>
+            <unittitle>Correspondence, fundraising</unittitle>
+            <unitdate>1977</unitdate>
+         </did>
+      </c02>
+      <c02>
+<did>
+<container type="box">8</container>
+<origination>Assassination Information Bureau</origination>
+            <unittitle>Correspondence, speaking engagements</unittitle>
+            <unitdate>1975-1976</unitdate>
+         </did>
+      </c02>
+      <c02>
+         <did>
+<container type="box">8</container>
+<origination>Assassination Information Bureau</origination>
+            <unittitle>Financial records</unittitle>
+            <unitdate>1978</unitdate>
+         </did>
+      </c02>
+      <c02>
+         <did>
+<container type="box">8</container>
+<origination>Assassination Information Bureau</origination>
+            <unittitle>Helms, Richard McGarrah</unittitle>
+            <unitdate>1978</unitdate>
+         </did>
+      </c02>
+      <c02>
+         <did>
+<container type="box">8</container>
+<origination>Assassination Information Bureau</origination>
+            <unittitle>Information package index</unittitle>
+            <unitdate>circa 1977</unitdate>
+         </did>
+      </c02>
+      <c02>
+         <did>
+<container type="box">8</container>
+<origination>Assassination Information Bureau</origination>
+            <unittitle>Information package requests</unittitle>
+            <unitdate>1977</unitdate>
+         </did>
+      </c02>
+      <c02>
+         <did>
+<container type="box">8</container>
+<origination>Assassination Information Bureau</origination>
+            <unittitle>Mailer, Norman</unittitle>
+            <unitdate>1977</unitdate>
+         </did>
+      </c02>
+      <c02>
+         <did>
+<container type="box">8</container>
+<origination>Assassination Information Bureau</origination>
+            <unittitle>Media contacts</unittitle>
+            <unitdate>circa 1975</unitdate>
+         </did>
+      </c02>
+      <c02>
+         <did>
+<container type="box">8</container>
+<origination>Assassination Information Bureau</origination>
+            <unittitle>Newsletter memo</unittitle>
+            <unitdate>1977</unitdate>
+         </did>
+      </c02>
+      <c02>
+         <did>
+<container type="box">8</container>
+<origination>Assassination Information Bureau</origination>
+            <unittitle>Notes</unittitle>
+            <unitdate>1975-1978</unitdate>
+         </did>
+      </c02>
+      <c02>
+         <did>
+<container type="box">8</container>
+<origination>Assassination Information Bureau</origination>
+            <unittitle>Petition to Congress</unittitle>
+            <unitdate>circa 1976</unitdate>
+         </did>
+      </c02>
+      <c02>
+         <did>
+<container type="box">8</container>
+<origination>Assassination Information Bureau</origination>
+            <unittitle>Press release and publicity</unittitle>
+            <unitdate>1974-1981</unitdate>
+         </did>
+      </c02>
+      <c02>
+         <did>
+<container type="box">8</container>
+<origination>Assassination Information Bureau</origination>
+            <unittitle>Printed letter</unittitle>
+            <unitdate>1977 Jan 20</unitdate>
+         </did>
+      </c02>
+      <c02>
+         <did>
+<container type="box">8</container>
+<origination>Assassination Information Bureau</origination>
+            <unittitle>Proposal for support</unittitle>
+            <unitdate>1977 Oct 1</unitdate>
+         </did>
+      </c02>
+      <c02>
+         <did>
+<container type="box">8</container>
+<origination>Assassination Information Bureau</origination>
+            <unittitle>Proposal for support, drafts</unittitle>
+            <unitdate>circa 1977</unitdate>
+         </did>
+      </c02>
+      <c02>
+         <did>
+<container type="box">8</container>
+<origination>Assassination Information Bureau</origination>
+            <unittitle>Washington Progress Report</unittitle>
+            <unitdate>1977 Jan</unitdate>
+         </did>
+      </c02>
+      <c02>
+         <did>
+<container type="box">8</container>
+<origination>Assassination Information Bureau</origination>
+            <unittitle>Washington Progress Report</unittitle>
+            <unitdate>1977 Feb-Mar</unitdate>
+         </did>
+      </c02>
+      <c02>
+         <did>
+<container type="box">8</container>
+<origination>Assassination Information Bureau</origination>
+            <unittitle>Washington Progress Report</unittitle>
+            <unitdate>1977 Apr-May</unitdate>
+         </did>
+      </c02>
+      <c02>
+         <did>
+<container type="box">8</container>
+            <unittitle>Assassination Records Review Board</unittitle>
+            <unitdate>1995-1998</unitdate>
+         </did>
+      </c02>
+      <c02>
+         <did>
+<container type="box">8</container>
+            <unittitle>Book catalogue: "Political Conspiracy, and the Kennedy Family"</unittitle>
+            <unitdate>1997</unitdate>
+         </did>
+
+<scopecontent>
+	<p>The last Hurrah Bookshop (Williamsport, Pa.)</p>
+</scopecontent>
+</c02>
+
+<c02>
+<did>
+<container type="box">8</container>
+<origination>Boren, David, Senator</origination>
+<unittitle>Press release</unittitle>
+<unitdate>1992</unitdate>
+</did>
+      </c02>
+
+      <c02>
+         <did>
+<container type="box">8</container>
+            <unittitle>Castro, Fidel: essays</unittitle>
+            <unitdate>circa 1977, undated</unitdate>
+         </did>
+      </c02>
+      <c02>
+         <did>
+<container type="box">8</container>
+            <unittitle>Castro, Fidel: essay</unittitle>
+            <unitdate>circa 1977</unitdate>
+         </did>
+<scopecontent>
+	<p>Author's surname Wynstra.</p>
+</scopecontent>
+      </c02>
+      <c02>
+         <did>
+<container type="box">8</container>
+            <unittitle>Castro, Fidel: essay, "The JFK Assassinations, the Press, and the Deatth of Johnny Rosselli"</unittitle>
+            <unitdate>circa 1977</unitdate>
+         </did>
+</c02>
+
+<c02>
+<did>
+<container type="box">8</container>
+<origination>Committee for an Open Archives</origination>
+<unittitle>Newsletter</unittitle>
+<unitdate>1992 Oct</unitdate>
+</did>
+      </c02>
+      <c02>
+         <did>
+<container type="box">9</container>
+            <unittitle>Computer diskettes</unittitle>
+            <unitdate>1989</unitdate>
+         </did>
+<scopecontent><p>Includes a CIA name file.</p></scopecontent>
+      </c02>
+      <c02>
+         <did>
+<container type="box">9</container>
+            <unittitle>Congressional Record</unittitle>
+            <unitdate>1992</unitdate>
+         </did>
+</c02>
+
+  <c02>
+      <did>
+<container type="box">9</container>
+<origination>Coogan, Matthw A.</origination>
+         <unittitle>Thirty Years of Deception</unittitle>
+         <unitdate>circa 1993</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">9</container>
+         <unittitle>Correspondence</unittitle>
+         <unitdate>1975, 1991</unitdate>
+      </did>
+   </c02>
+
+
+   <c02>
+      <did>
+<container type="box">9</container>
+         <unittitle>Court documents</unittitle>
+         <unitdate>1992-2005</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">9</container>
+         <unittitle>Cuban Missile Crisis: essay, "Back in the U.S.A. -- I Survive the Cuban Missile Crisis"</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">9</container>
+         <unittitle><title render="italic">Dateline: Dallas</title></unittitle>
+         <unitdate>1993</unitdate>
+<physdesc>
+<extent>v. 2, no. 1 &amp; 2</extent>
+</physdesc>
+      </did>
+
+   </c02>
+   <c02>
+      <did>
+<container type="box">9</container>
+<origination>Dodd, Christopher J.</origination>
+         <unittitle>House Select Committee on Assassinations preliminary report</unittitle>
+         <unitdate>1976</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">9</container>
+         <unittitle><title render="italic">Echoes of Conspiracy</title></unittitle>
+         <unitdate>1983</unitdate>
+<physdesc>
+	<extent>v. 5, no. 4</extent>
+</physdesc>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">9</container>
+         <unittitle>Fund for Constitutional Government memo</unittitle>
+         <unitdate>circa 1976</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">9</container>
+<origination>Hibbard, John</origination>
+         <unittitle>"One Story of the Assassination of President John F. Kennedy"</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">9</container>
+         <unittitle><title render="italic">Hopwood Newsletter</title></unittitle>
+         <unitdate>1994 Dec</unitdate>
+      </did>
+</c02>
+
+<c02>
+<did>
+<container type="box">9</container>
+<origination>House Select Committee on Assassinations</origination>
+<unittitle>Remarks</unittitle>
+<unitdate>1979</unitdate>
+</did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">9</container>
+<origination>Humes, James J., Dr.</origination>
+         <unittitle>Autopsy panel review</unittitle>
+         <unitdate>1968, 1978</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">9</container>
+<origination>Humes, James J., Dr.</origination>
+         <unittitle>Testimony</unittitle>
+         <unitdate>1964</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">9</container>
+         <unittitle>Institute for Media Analysis, Inc.</unittitle>
+         <unitdate>1988-1993</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">10</container>
+<origination>Louis, J.C. and Goldberg, Jeff</origination>
+         <unittitle>"Howard, 'We Hardly Knew Ye,'"</unittitle>
+         <unitdate>circa 1977</unitdate>
+      </did>
+<scopecontent>
+	<p>Outline of book.</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">9</container>
+<origination>Molden, Dan</origination>
+         <unittitle>"The Reagan Administration, Organized Crime and the left"</unittitle>
+         <unitdate>1981</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">9</container>
+         <unittitle>Monroe, Marilyn: postcards</unittitle>
+         <unitdate>1989</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">9</container>
+         <unittitle>National Security Archive</unittitle>
+         <unitdate>1986</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">9</container>
+         <unittitle>Newspaper clippings and articles</unittitle>
+         <unitdate>1969-1977</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">9</container>
+         <unittitle>Newspaper clippings and articles</unittitle>
+         <unitdate>1978</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">10</container>
+         <unittitle>Newspaper clippings and articles</unittitle>
+         <unitdate>1979</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">10</container>
+         <unittitle>Newspaper clippings and articles</unittitle>
+         <unitdate>1981-1983</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">10</container>
+         <unittitle>Newspaper clippings and articles</unittitle>
+         <unitdate>1984-1988</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">10</container>
+         <unittitle>Newspaper clippings and articles</unittitle>
+         <unitdate>1990-1994</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">10</container>
+         <unittitle>Newspaper clippings and articles</unittitle>
+         <unitdate>1995-2003</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">10</container>
+         <unittitle>Newspaper clippings and articles</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">10</container>
+         <unittitle>Newspaper clippings and articles: House Select Committee on Assassinations</unittitle>
+         <unitdate>1979</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">10</container>
+         <unittitle>Newspaper clippings and articles: House Select Committee on Assassinations</unittitle>
+         <unitdate>1979</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">10</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>Article, "The Second Gunman of Dealey Plaza"</unittitle>
+         <unitdate>circa 1981</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">10</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>Article, "Too Clever by Half: How Posner Gets it Wrong"</unittitle>
+         <unitdate>1993</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">10</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>Article, "United States of Conspiracy"</unittitle>
+         <unitdate>1977</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">10</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>Correspondence</unittitle>
+         <unitdate>1990</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">10</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>Correspondence</unittitle>
+         <unitdate>1992</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">10</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>Correspondence</unittitle>
+         <unitdate>1990</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">10</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>Correspondence</unittitle>
+         <unitdate>1993 Jan-Mar</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">10</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>Correspondence</unittitle>
+         <unitdate>1993 Apr</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">11</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>Correspondence</unittitle>
+         <unitdate>1993 May-Nov</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">11</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>Correspondence</unittitle>
+         <unitdate>1996-2005</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">11, OS</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>Flyers and posters</unittitle>
+         <unitdate>1978-1992</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">11</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>Lecture, "Assassinations and the War"Assassinations Conference Keynote.</unittitle>
+         <unitdate>1993</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">11</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>Lecture, "JFK Assassination"Delivered at Brookline High School.</unittitle>
+         <unitdate>1984</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">11</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>Lecture script</unittitle>
+         <unitdate>1996</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">11</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>Lecture, "Who Cares Who Killed JFK?"</unittitle>
+         <unitdate>circa 1990</unitdate>
+      </did>
+<scopecontent>
+	<p>Talking points for a public appearance.</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">11</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>Lecture, "Who Killed JFK?"</unittitle>
+         <unitdate>1993, undated</unitdate>
+      </did>
+<scopecontent>
+	<p>Lecture notes.</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">11</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>Lecture, "Who Killed JFK?"</unittitle>
+         <unitdate>1980-1983</unitdate>
+      </did>
+<scopecontent>
+	<p>Lecture posters.</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">11</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>Lecture, "Who Killed JFK?"</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+<scopecontent>
+	<p>Lecture references.</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">11</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>Lecture, "Who Killed JFK?"</unittitle>
+         <unitdate>1986-1994</unitdate>
+      </did>
+<scopecontent>
+	<p>Lecture scripts.</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">11</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>Notes</unittitle>
+         <unitdate>1993-1998, undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">11</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>Typescript</unittitle>
+         <unitdate>1978</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">11</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>Typescript</unittitle>
+         <unitdate>1979</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">11</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>Typescript, "Colby and the New CIA"</unittitle>
+         <unitdate>1973</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">11</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>Typescript, notes</unittitle>
+         <unitdate>1978</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">11</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>Typescript, "Shot from the Grasy Knoll"</unittitle>
+         <unitdate>circa 1979</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">11</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>Typescript, "Where to in JFK?"</unittitle>
+         <unitdate>circa 1979</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">11</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>"Who Killed JFK?" book proofs</unittitle>
+         <unitdate>1992</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">11</container>
+         <unittitle><title render="italic">Oswald: The Secret Files</title></unittitle>
+         <unitdate>1992</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">11</container>
+         <unittitle><title render="italic">People and the Pursuit of Truth</title></unittitle>
+         <unitdate>1976</unitdate>
+<physdesc>
+	<extent>v. 2, nos. 1, 5-7.</extent>
+</physdesc>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">11</container>
+         <unittitle>Printed material</unittitle>
+         <unitdate>1974-1977</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">11</container>
+<origination>Scott, Peter Dale</origination>
+        <unittitle><title render="italic">Assassinations, Dallas and Beyond: A Guide to Cover-Ups and Investigations</title></unittitle>
+         <unitdate>1976</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">12</container>
+<origination>Scott, Peter Dale</origination>
+         <unittitle>Typescript</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+<scopecontent>
+	<p>Chapters 1-3.</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">12</container>
+<origination>Scott, Peter Dale</origination>
+         <unittitle>Typescript</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+<scopecontent>
+	<p>Chapters 4-11.</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">12</container>
+<origination>Scott, Peter Dale</origination>
+         <unittitle><title render="italic">War Conspiracy</title>, book chapters</unittitle>
+         <unitdate>1972</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">12</container>
+<origination>Sonzski, William</origination>
+         <unittitle>"A Remembrance of President Kennedy"</unittitle>
+         <unitdate>1992</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">12</container>
+         <unittitle><title render="italic">Special Gallery Report: The JFK Assassination</title></unittitle>
+         <unitdate>1979</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">12</container>
+         <unittitle>Television program: "Who Killed Lee Harvey Oswald?" </unittitle>
+         <unitdate>1993</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">12</container>
+         <unittitle>Typescript, fragment: Minutemen</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">13</container>
+<origination>United States. Congress. House Select Committee on Assassinations</origination>
+         <unittitle><title render="italic">Investigation of the Assassination of President John F. Kennedy: Hearings Before the Select Committee on Assassinations of the U.S. House of Representatives, Ninety-fifth Congress, Second Session</title></unittitle>
+         <unitdate>1978-1979</unitdate>
+<physdesc>
+	<extent>v. 1-7, 9-11</extent>
+</physdesc>
+      </did>
+
+
+   </c02>
+   <c02>
+      <did>
+<container type="box">14-15</container>
+<origination>United States. Congress. House Select Committee on Assassinations</origination>
+         <unittitle><title render="italic">Investigation of the Assassination of Martin Luther King, Jr. :Hearings Before the Select Committee on Assassinations of the U.S. House of Representatives, Ninety-fifth Congress, Second Session</title></unittitle>
+         <unitdate>1979</unitdate>
+<physdesc>
+	<extent>v. 1-13</extent>
+</physdesc>
+      </did>
+
+
+   </c02>
+   <c02>
+      <did>
+<container type="box">12</container>
+<origination>Yazijian, Harvey</origination>
+         <unittitle>Contract: lecture engagements</unittitle>
+         <unitdate>1975</unitdate>
+      </did>
+   </c02>
+</c01>
+
+<c01 level="series">
+<did>
+<unittitle>Series 3: Yankee and Cowboy War</unittitle>
+<unitdate>1970-2002</unitdate>
+
+</did>
+
+   <c02>
+      <did>
+<container type="box">12, OS</container>
+         <unittitle>Advertising</unittitle>
+         <unitdate>circa 1976</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">12</container>
+         <unittitle>Articles</unittitle>
+         <unitdate>1970-1995</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">12</container>
+         <unittitle>Charts</unittitle>
+         <unitdate>circa 1975</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">12</container>
+         <unittitle>Correspondence</unittitle>
+         <unitdate>1976-1986</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">12</container>
+         <unittitle>Critiques: Yankee-Cowboy theory</unittitle>
+         <unitdate>1976-1996, undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">16</container>
+         <unittitle>Newspaper clippings</unittitle>
+         <unitdate>1972-1979</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">16</container>
+         <unittitle>Newspaper clippings</unittitle>
+         <unitdate>1981-1985</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">16</container>
+         <unittitle>Newspaper clippings</unittitle>
+         <unitdate>1981-1985</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">16</container>
+         <unittitle>Newspaper clippings</unittitle>
+         <unitdate>1981-1985</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">16</container>
+         <unittitle>Newspaper clippings</unittitle>
+         <unitdate>1985-1989</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">16</container>
+         <unittitle>Newspaper clippings</unittitle>
+         <unitdate>1990-1993</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">17</container>
+         <unittitle>Newspaper clippings</unittitle>
+         <unitdate>1994-2002, undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">17</container>
+         <unittitle>Notes</unittitle>
+         <unitdate>1974-1994</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+ <container type="box">17</container>
+         <unittitle>Notes</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">17</container>
+         <unittitle>Notes: Watergate</unittitle>
+         <unitdate>1982-1990</unitdate>
+      </did>
+<scopecontent>
+	<p>Chapter 6.</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">17</container>
+         <unittitle>Notes: Yankee-Cowboy War history</unittitle>
+         <unitdate>circa 1973-1976</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">17</container>
+         <unittitle>Printed materials</unittitle>
+         <unitdate>1973-2000</unitdate>
+      </did>
+   </c02>
+
+
+   <c02>
+      <did>
+ <container type="box">17</container>
+         <unittitle>Research materials: Bush administration</unittitle>
+         <unitdate>1990, undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">17</container>
+         <unittitle>Research materials: Carter administration</unittitle>
+         <unitdate>1976-1977</unitdate>
+      </did>
+   </c02>
+
+
+   <c02>
+      <did>
+ <container type="box">17</container>
+         <unittitle>Research materials: Castro, Fidel</unittitle>
+         <unitdate>1963, 1993</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">17</container>
+         <unittitle>Research materials: chapter 5, "1968"</unittitle>
+         <unitdate>1982-1990</unitdate>
+      </did>
+   </c02>
+
+
+  <c02>
+      <did>
+ <container type="box">18</container>
+         <unittitle>Research materials: chapter 6, "Watergate"</unittitle>
+         <unitdate>1972-1998</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">18</container>
+         <unittitle>Research materials: chapter 10, "Bush: One-Man Yankee-Cowboy Coalition"</unittitle>
+         <unitdate>1978-1990</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">18</container>
+         <unittitle>Research materials: chapter 10, "Bush: One-Man Yankee-Cowboy Coalition"</unittitle>
+         <unitdate>1978-1990</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">18</container>
+         <unittitle>Research materials: chapter 11, "Beyond the Frontier"</unittitle>
+         <unitdate>1989-1990</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">18</container>
+         <unittitle>Research materials: Clinton administration</unittitle>
+         <unitdate>1992-1993</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">18</container>
+         <unittitle>Research materials: Connally, John</unittitle>
+         <unitdate>1972-1993</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">18</container>
+         <unittitle>Research materials: Hughes, Howard</unittitle>
+         <unitdate>1972-1992</unitdate>
+      </did>
+<scopecontent>
+	<p>Includes correspondence with Clifford Irving.</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">18</container>
+         <unittitle>Research materials: introduction and afterward</unittitle>
+         <unitdate>1993-1997</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+ <container type="box">18</container>
+         <unittitle>Research materials: Iran-Contra</unittitle>
+         <unitdate>1992</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">19</container>
+         <unittitle>Research materials: Kennedy, John F.</unittitle>
+         <unitdate>1973-1993</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+ <container type="box">19</container>
+         <unittitle>Research materials: Northgate</unittitle>
+         <unitdate>1981-1992</unitdate>
+      </did>
+   </c02>
+
+
+   <c02>
+      <did>
+ <container type="box">19</container>
+         <unittitle>Research materials: Northgate</unittitle>
+         <unitdate>1981-1992</unitdate>
+      </did>
+   </c02>
+
+
+   <c02>
+      <did>
+ <container type="box">19</container>
+         <unittitle>Research materials: Prussians and traders</unittitle>
+         <unitdate>1977</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">19</container>
+         <unittitle>Research materials: Reagan administration</unittitle>
+         <unitdate>1990-1993</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">19</container>
+         <unittitle>Research materials: Watergate</unittitle>
+         <unitdate>1972-1973</unitdate>
+      </did>
+<scopecontent>
+	<p>Letters of James McCord.</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">19</container>
+         <unittitle>Research materials: Watergate</unittitle>
+         <unitdate>1973-1980</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">19</container>
+         <unittitle>Research materials: Yankee-Cowboy War history</unittitle>
+         <unitdate>1972-2003</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">19</container>
+         <unittitle>Review and press releases</unittitle>
+         <unitdate>1976-1977</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">20</container>
+         <unittitle>Typescript: appendix, index</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">20</container>
+         <unittitle>Typescript: assorted</unittitle>
+         <unitdate>1973, undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">20</container>
+         <unittitle>Typescript: chapter 6, "Watergate"</unittitle>
+         <unitdate>circa 1988-1990</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">20</container>
+         <unittitle>Typescript: chapter 7, "Carter: The Scalawag President and the Hostage Crisis"</unittitle>
+         <unitdate>circa 1975-1977</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">20</container>
+         <unittitle>Typescript: chapter 10, "Bush: One-Man Yankee-Cowboy Coalition"</unittitle>
+         <unitdate>1987-1989</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">20</container>
+         <unittitle>Typescript: chapter 11, "Beyond the Frontier"</unittitle>
+         <unitdate>1989-1990</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">20</container>
+         <unittitle>Typescript: Yankee-Cowboy War history</unittitle>
+         <unitdate>circa 1988-1990</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">20</container>
+         <unittitle>Writing fragments</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">20</container>
+         <unittitle>Writing fragments: Northgate</unittitle>
+         <unitdate>circa 1981-1986</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">21</container>
+         <unittitle>Writing fragments: Northgate</unittitle>
+         <unitdate>circa 1981-1986</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">21</container>
+         <unittitle>Writing fragments: Reagan administration</unittitle>
+         <unitdate>1974-1981</unitdate>
+      </did>
+   </c02>
+
+</c01>
+
+<c01 level="series">
+<did>
+<unittitle>Series 4: Gehlen Organization</unittitle>
+<unitdate>1945-2005</unitdate>
+
+</did>
+
+
+
+   <c02>
+      <did>
+<container type="box">21</container>
+         <unittitle>"Anti-Communism and the U.S.: History and Consequences, an International Conference"</unittitle>
+         <unitdate>1988</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">21</container>
+         <unittitle>"Anti-Communism and the U.S.: History and Consequences, an International Conference," notes</unittitle>
+         <unitdate>1988</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">21</container>
+         <unittitle>Articles and books: <title render="italic">Agoston, Blunder! How the U.S. Gave Away Nazi Supersecrets to Russia</title></unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">21</container>
+         <unittitle>Articles and books: assorted</unittitle>
+         <unitdate>various dates</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">21</container>
+         <unittitle>Articles and books: Brussell, Mac, "The Nazi Connection to the John F. Kennedy Assassination"</unittitle>
+         <unitdate>1983</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">21</container>
+         <unittitle>Articles and books: Cannon, Martin, "Part One: The Witnesses"</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">21</container>
+         <unittitle>Articles and books: Carrington, Ellsworth T.</unittitle>
+         <unitdate>1980-1981, 1991</unitdate>
+      </did>
+<scopecontent>
+	<p>Includes a letter to Oglesby.</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">21</container>
+         <unittitle>Articles and books: Colvin, Ian, "The Secret Front"</unittitle>
+         <unitdate>1954</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">21</container>
+         <unittitle>Articles and books: Edwards, Bob and Dunne, Kenneth, "A Study of a Master Spy (Allen Dulles)"</unittitle>
+         <unitdate>circa 1961</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">21</container>
+         <unittitle>Articles and books: Hermann, Kai. "Klaus Barbie: A Killer's Career"</unittitle>
+         <unitdate>1986</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">21</container>
+         <unittitle>Articles and books: Infield, Glenn B., "Skerzeny: Hitler's Commando"</unittitle>
+         <unitdate>1981</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">21</container>
+         <unittitle>Articles and books: Jensen, Joan M., "The Price of Vigilance:</unittitle>
+         <unitdate>1968</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">21</container>
+         <unittitle>Articles and books: Judge, John, "Good Americans"</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">21</container>
+         <unittitle>Articles and books: King, Dennis</unittitle>
+         <unitdate>1981-1984</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">21</container>
+         <unittitle>Articles and books: Lee, Martin, "Der Spiegal"</unittitle>
+         <unitdate>1990-1991</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">21</container>
+         <unittitle>Articles and books: Lee, Martin A., "Hitler's Offspring"</unittitle>
+         <unitdate>1993</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">21</container>
+         <unittitle>Articles and books: Light, Robert E. and Marzani, Carl, "Cuba vs. the C.I.A."</unittitle>
+         <unitdate>1961</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">21</container>
+         <unittitle>Articles and books: Manning, Paul, "Wharton -- Nazi in Exile"</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">22</container>
+         <unittitle>Articles and books: Martin, James Stewart, "All Honorable Men"</unittitle>
+         <unitdate>1950</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">22</container>
+         <unittitle>Articles and books: Miller, Arthur, "Uneasy About the Germans"</unittitle>
+         <unitdate>1990</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">21</container>
+         <unittitle>Articles and books: Oglesby, Carl, "The Secret Treaty of Fort Hunt"</unittitle>
+         <unitdate>1990</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">22</container>
+         <unittitle>Articles and books: Pearson, David, "K.A.L. 077: What the U.S. Knew and When We Knew It"</unittitle>
+         <unitdate>1984</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">22</container>
+         <unittitle>Articles and books: Prevailing Winds Research, "Tied Up in Nazis"</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+</c02>
+
+<c02>
+<did>
+<container type="box">22</container>
+<unittitle>Articles and books: Riess, Curt, "The Nazis Go Underground"</unittitle>
+<unitdate>1944</unitdate>
+</did>
+</c02>
+
+<c02>
+<did>
+<container type="box">21</container>
+<unittitle>Articles and books: Rostow, Eugene V., "Peace in the Balance: the Future of American Foreign Policy"</unittitle>
+<unitdate>1972</unitdate>
+</did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">22</container>
+         <unittitle>Articles and books: Scott, Peter Dale, "How Allen Dulles and the SS Preserved Each Other"</unittitle>
+         <unitdate>1986</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">22</container>
+         <unittitle>Articles and books: Sereny, Gitta, "Children of the Rich"</unittitle>
+         <unitdate>1990</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">22</container>
+         <unittitle>Articles and books: Skolnick, Sherman H., "Princess Diana: Crushed Between East and West"</unittitle>
+         <unitdate>1996</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">22</container>
+         <unittitle>Articles and books: Speer, Albert, "Infiltration: How Heinrich Himmler Schemed to Build an SS Industrial Empire"</unittitle>
+         <unitdate>1981</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">22</container>
+         <unittitle>Articles and books: Taylor, Telford, "Chilly Winds"</unittitle>
+         <unitdate>circa 1984</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">22</container>
+         <unittitle>Articles and books: Van Renterghem, Tony</unittitle>
+         <unitdate>1985-1987</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">22</container>
+         <unittitle>Articles and books: Wiesenthal, Simon, "The Wanderers Among Us"</unittitle>
+         <unitdate>1967</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">22</container>
+         <unittitle>Bibliographies</unittitle>
+         <unitdate>circa 1990, undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">22</container>
+         <unittitle>Book materials: note cards</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">23</container>
+         <unittitle>Book materials: note cards</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">23</container>
+         <unittitle>Book materials: note cards</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">23</container>
+         <unittitle>Book notes</unittitle>
+         <unitdate>various dates</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">23</container>
+         <unittitle>Book reviews</unittitle>
+         <unitdate>1988</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">23</container>
+         <unittitle>Brochures and announcements</unittitle>
+         <unitdate>circa 1985-1991</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">23</container>
+         <unittitle>"Carl Oglesby v. Department of the Army": court documents</unittitle>
+         <unitdate>1988</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">23</container>
+         <unittitle>"Carl Oglesby v. Department of the Army": court documents</unittitle>
+         <unitdate>1988</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">23</container>
+         <unittitle>"Carl Oglesby v. Department of the Army": court documents</unittitle>
+         <unitdate>1989</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">23</container>
+         <unittitle>"Carl Oglesby v. Department of the Army": court documents</unittitle>
+         <unitdate>1989</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">24</container>
+         <unittitle>"Carl Oglesby v. Department of the Army": court documents</unittitle>
+         <unitdate>1989</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">24</container>
+         <unittitle>"Carl Oglesby v. Department of the Army": court documents</unittitle>
+         <unitdate>1989</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">24</container>
+         <unittitle>"Carl Oglesby v. Department of the Army": court documents</unittitle>
+         <unitdate>1990</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">24</container>
+         <unittitle>"Carl Oglesby v. Department of the Army": court documents</unittitle>
+         <unitdate>1990</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">24</container>
+         <unittitle>"Carl Oglesby v. Department of the Army": court documents</unittitle>
+         <unitdate>1990</unitdate>
+      </did>
+   </c02>
+
+
+
+   <c02>
+      <did>
+<container type="box">24</container>
+         <unittitle>"Carl Oglesby v. Department of the Army": court documents</unittitle>
+         <unitdate>1991</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">24</container>
+         <unittitle>"Carl Oglesby v. Department of the Army": court documents</unittitle>
+         <unitdate>1992</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">24</container>
+         <unittitle>"Carl Oglesby v. Department of the Army": court documents</unittitle>
+         <unitdate>1992</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">24</container>
+         <unittitle>"Carl Oglesby v. Department of the Army": court documents</unittitle>
+         <unitdate>1993</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">25</container>
+         <unittitle>"Carl Oglesby v. Department of the Army": court documents</unittitle>
+         <unitdate>1993</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">25</container>
+         <unittitle>"Carl Oglesby v. Department of the Army": court documents</unittitle>
+         <unitdate>1994-1995</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">25</container>
+         <unittitle>"Carl Oglesby v. Department of the Army": court documents</unittitle>
+         <unitdate>1996</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">25</container>
+         <unittitle>"Carl Oglesby v. Department of the Army": court documents</unittitle>
+         <unitdate>1997-1998</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">25</container>
+         <unittitle>"Carl Oglesby v. Department of the Army": court documents</unittitle>
+         <unitdate>1997-1998</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">25</container>
+         <unittitle>"Carl Oglesby v. Department of the Army": court documents</unittitle>
+         <unitdate>2000-2003</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">25</container>
+         <unittitle>"Carl Oglesby v. Department of the Army": court documents</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">26</container>
+         <unittitle>"Carl Oglesby v. Department of the Army": court documents</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">26</container>
+         <unittitle>"Carl Oglesby v. Department of the Army": FOIA requests</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">26</container>
+         <unittitle>"Carl Oglesby v. Department of the Army":  notes</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">26</container>
+         <unittitle>Charts: Gehlen Organization</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+         <unittitle>Charts: Nazi War Crimes Disclosure Act</unittitle>
+         <unitdate>2002</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">26</container>
+         <unittitle>Catalogs</unittitle>
+         <unitdate>1987-2003</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">26</container>
+         <unittitle>Chronology: Gehlen</unittitle>
+         <unitdate>circa 1985</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">26</container>
+         <unittitle>Chronology: Gehlen</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">26</container>
+         <unittitle>Chronology: Gehlen</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">26</container>
+         <unittitle>Chronology: "Nazification of U.S. Intelligence"</unittitle>
+         <unitdate>circa 1984</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">26</container>
+         <unittitle>Congressional report: "GAO Report on Nazi War Criminals in the United States"</unittitle>
+         <unitdate>1985</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">27</container>
+         <unittitle>Correspondence</unittitle>
+         <unitdate>1984-2003</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">27</container>
+         <unittitle>Correspondence: Department of the Army</unittitle>
+         <unitdate>1997</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">27</container>
+         <unittitle>Correspondence: Freedom of Information Act</unittitle>
+         <unitdate>1985-1987</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">27</container>
+         <unittitle>Correspondence: Freedom of Information Act</unittitle>
+         <unitdate>1985-1987</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">27</container>
+         <unittitle>Correspondence: Freedom of Information Act</unittitle>
+         <unitdate>1999-2001</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">27</container>
+         <unittitle>Correspondence: Gallen, Richard</unittitle>
+         <unitdate>1992</unitdate>
+      </did>
+<scopecontent>
+	<p>Includes book proposal.</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">27</container>
+         <unittitle>Correspondence; Institute for Continuing Denazification</unittitle>
+         <unitdate>1989-1996</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">27</container>
+         <unittitle>Correspondence: Klimke, Martin</unittitle>
+         <unitdate>2005</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">27</container>
+         <unittitle>Correspondence: Lesar, James</unittitle>
+         <unitdate>1987-1990</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">27</container>
+         <unittitle>Correspondence: Lesar, James</unittitle>
+         <unitdate>1991-1997</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">27</container>
+         <unittitle>Correspondence: Meredith, Scott</unittitle>
+         <unitdate>1985</unitdate>
+      </did>
+<scopecontent>
+	<p>Includes book proposal.</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">27</container>
+         <unittitle>Correspondence: Rockefeller, Abby and Lee</unittitle>
+         <unitdate>1987-2003</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">27</container>
+         <unittitle>Correspondence: Woods, Phil</unittitle>
+         <unitdate>2003</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">28</container>
+         <unittitle>Documents: Association of Former Intelligence Officers, membership directory</unittitle>
+         <unitdate>1989</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">28</container>
+         <unittitle>Documents: Bellant, Russ, "Old Nazis, the New Right and the Reagan Administration"</unittitle>
+         <unitdate>1988</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">28</container>
+         <unittitle>Documents: "Elkhorn Document," Davis, William R.</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+<scopecontent>
+	<p>Includes only portions of copied document.</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">28</container>
+         <unittitle>Documents: "Klaus Barbie and the United States Government, "Ryan, Allan A.</unittitle>
+         <unitdate>1983</unitdate>
+<physdesc>
+	<extent>p. 1-134</extent>
+</physdesc>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">28</container>
+         <unittitle>Documents: "Klaus Barbie and the United States Government, "Ryan, Allan A.</unittitle>
+         <unitdate>1983</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">28</container>
+         <unittitle>Documents: "History of the Counter Intelligence Corps: Chronology"</unittitle>
+         <unitdate>1959</unitdate>
+<physdesc>
+	<extent>v. 2</extent>
+</physdesc>
+      </did>
+
+
+   </c02>
+   <c02>
+      <did>
+<container type="box">28</container>
+         <unittitle>Documents: "History of the Counter Intelligence Corps: Chronology"</unittitle>
+         <unitdate>1959</unitdate>
+<physdesc>
+	<extent>v. 2</extent>
+</physdesc>
+      </did>
+
+
+   </c02>
+   <c02>
+      <did>
+<container type="box">28</container>
+         <unittitle>Documents: "Robert Jan Verbelen and the United States Governmnet"</unittitle>
+         <unitdate>1988</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">28</container>
+         <unittitle>Drafts: Institute for Continuing Denazification</unittitle>
+         <unitdate>1986</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">28</container>
+         <unittitle>Intelligence documents: Dietrich, Heinz</unittitle>
+         <unitdate>circa 1952-1957</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">28</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>circa 1941-1961</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">29</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>circa 1941-1961</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">29</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>1945-1946</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">29</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>circa 1945-1947</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">29</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>circa 1945-1947</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">29</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>circa 1945-1947</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">29</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>circa 1946</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">29</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>circa 1946</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">29</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>circa 1945-1946</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">30</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>circa 1945-1946</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">30</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>1946</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">30</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>1946</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">30</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>1946</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">30</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>1946</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">30</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>1946</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">31</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>1946</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">31</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>1946-1948</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">31</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>1946-1948</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">31</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>1946-1954</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">31</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>1946-1954</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">31</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>1946-1955</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">31</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>1946-1955</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">32</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>1946-1966</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">32</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>circa 1950-1962</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">32</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>circa 1950-1962</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">32</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>circa 1951-1953</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">32</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>circa 1951-1953</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">32</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>circa 1953-1956</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">32</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>circa 1953-1956</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">33</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>circa 1953-1956</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">33</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>circa 1954</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">33</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>circa 1954</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">33</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>circa 1954-1956</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">33</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>circa 1954-1956</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">33</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>1956-1958</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">33</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>1958-1959</unitdate>
+      </did>
+   </c02>
+
+
+   <c02>
+      <did>
+<container type="box">34</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>1956-1958</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">34</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>1956-1958</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">34</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>1959</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">34</container>
+         <unittitle>Intelligence documents: Gehlen</unittitle>
+         <unitdate>1961-1962</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">34</container>
+         <unittitle>Intelligence documents: National Security Agency</unittitle>
+         <unitdate>1990</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">34</container>
+         <unittitle>Intelligence documents: Ryan Report</unittitle>
+         <unitdate>1945</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">35</container>
+         <unittitle>Intelligence documents: Werewolf</unittitle>
+         <unitdate>1945</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">35</container>
+         <unittitle>Intelligence documents: Werewolf Organization</unittitle>
+         <unitdate>circa 1945-1948</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">35</container>
+         <unittitle>Intelligence documents: Werewolf Organization</unittitle>
+         <unitdate>circa 1945-1948</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">35</container>
+         <unittitle>Intelligence documents: Werewolf Organization</unittitle>
+         <unitdate>circa 1945-1948</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">35</container>
+         <unittitle>Intelligence documents: Werewolf Organization</unittitle>
+         <unitdate>circa 1945-1948</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">35</container>
+         <unittitle>Intelligence documents: Werewolf Organization</unittitle>
+         <unitdate>circa 1945-1948</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">35</container>
+         <unittitle>Intelligence documents: Werewolf Organization</unittitle>
+         <unitdate>circa 1945-1948</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">36</container>
+         <unittitle>Intelligence documents: Werewolf Organization</unittitle>
+         <unitdate>circa 1945-1948</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">36</container>
+         <unittitle>Lecture materials</unittitle>
+         <unitdate>1984, undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">36</container>
+         <unittitle>Manuscript: "Mengle and Dulles: the SS-OSS Connection, Transnationalism and the Cold War," Scott, Peter Dale</unittitle>
+         <unitdate>circa 1985</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">36</container>
+         <unittitle>Manuscript: "J. Edgar Hoover: the Father of the Cold War," Kiel, Andrew R.P</unittitle>
+         <unitdate>undated</unitdate>
+<physdesc>
+	<extent>p. 1-109</extent>
+</physdesc>
+      </did>
+
+
+   </c02>
+   <c02>
+      <did>
+<container type="box">36</container>
+         <unittitle>Manuscript: "J. Edgar Hoover: the Father of the Cold War," Kiel, Andrew R.</unittitle>
+         <unitdate>undated</unitdate>
+<physdesc>
+	<extent>p. 130-256</extent>
+</physdesc>
+      </did>
+
+
+   </c02>
+   <c02>
+      <did>
+<container type="box">36</container>
+         <unittitle>Manuscript: "J. Edgar Hoover: the Father of the Cold War," Kiel, Andrew R.</unittitle>
+         <unitdate>undated</unitdate>
+<physdesc>
+	<extent>p. 257-367</extent>
+</physdesc>
+      </did>
+
+
+   </c02>
+   <c02>
+      <did>
+<container type="box">36</container>
+         <unittitle>Manuscript: "J. Edgar Hoover: the Father of the Cold War," Kiel, Andrew R.</unittitle>
+         <unitdate>undated</unitdate>
+<physdesc>
+	<extent>p. 369-475</extent>
+</physdesc>
+      </did>
+
+
+   </c02>
+   <c02>
+      <did>
+<container type="box">36</container>
+         <unittitle>Manuscript: Oglesby, Carl, "The Nazification of U.S. Intelligence"</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">36</container>
+         <unittitle>Manuscript: Oglesby, Carl, "Reinhard Gehlen and the Secret Tragedy of Fort Hunt"</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">36</container>
+         <unittitle>Manuscript: Oglesby, Carl, "The Secret Deal of Fort Hunt"</unittitle>
+         <unitdate>1985</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">37</container>
+         <unittitle>Manuscript: Oglesby, Carl, "The Secret Deal of Fort Hunt"</unittitle>
+         <unitdate>1990</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">37</container>
+         <unittitle>Manuscript: Oglesby, Carl, untitled</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">37</container>
+         <unittitle>Manuscript: Oglesby, Carl, untitled</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">37</container>
+         <unittitle>Newspaper clippings</unittitle>
+         <unitdate>1980-1984</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">37</container>
+         <unittitle>Newspaper clippings</unittitle>
+         <unitdate>1985</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">37</container>
+         <unittitle>Newspaper clippings</unittitle>
+         <unitdate>1986</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">37</container>
+         <unittitle>Newspaper clippings </unittitle>
+         <unitdate>1987</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">37</container>
+         <unittitle>Newspaper clippings</unittitle>
+         <unitdate>1988</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">37</container>
+         <unittitle>Newspaper clippings</unittitle>
+         <unitdate>1989</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">37</container>
+         <unittitle>Newspaper clippings</unittitle>
+         <unitdate>1990</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">38</container>
+         <unittitle>Newspaper clippings</unittitle>
+         <unitdate>1991-1995</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">38</container>
+         <unittitle>Newspaper clippings</unittitle>
+         <unitdate>1996-1999</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">38</container>
+         <unittitle>Newspaper clippings</unittitle>
+         <unitdate>2000-2005, undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">38</container>
+         <unittitle>Newspaper clippings: German</unittitle>
+         <unitdate>circa 1956</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">38</container>
+         <unittitle>Newspaper clippings: Mengle, Joseph</unittitle>
+         <unitdate>1985</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">38</container>
+         <unittitle>Newspaper clippings: Nazi war criminals in the U.S.</unittitle>
+         <unitdate>1977-1987</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">38</container>
+         <unittitle>Notes</unittitle>
+         <unitdate>various dates</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">38</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>A Nazi Peace</unittitle>
+         <unitdate>1984-1985</unitdate>
+      </did>
+<scopecontent>
+	<p>Chapter 1, "1945: A Reintroduction."</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">39</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>A Nazi Peace</unittitle>
+         <unitdate>1984-1985</unitdate>
+      </did>
+<scopecontent>
+	<p>Chapter 2, "Twilight of the OSS."</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">39</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>A Nazi Peace</unittitle>
+         <unitdate>1984-1985</unitdate>
+      </did>
+<scopecontent>
+	<p>Chapter 2, "Twilight of the OSS."</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">39</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>A Nazi Peace</unittitle>
+         <unitdate>1984-1985</unitdate>
+      </did>
+<scopecontent>
+	<p>Chapter 3, "Odessa."</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">39</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>A Nazi Peace</unittitle>
+         <unitdate>1984-1985</unitdate>
+      </did>
+<scopecontent>
+	<p>Chapter 3, "Odessa."</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">39</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>A Nazi Peace</unittitle>
+         <unitdate>1984-1985</unitdate>
+      </did>
+<scopecontent>
+	<p>Chapter 4, "Secret Wars."</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">39</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>A Nazi Peace</unittitle>
+         <unitdate>1984-1985</unitdate>
+      </did>
+<scopecontent>
+	<p>Chapter 4, "Secret Wars."</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">39</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>A Nazi Peace</unittitle>
+         <unitdate>1984-1985</unitdate>
+      </did>
+<scopecontent>
+	<p>Chapter 4, "Secret Wars."</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">40</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>A Nazi Peace</unittitle>
+         <unitdate>1984-1985</unitdate>
+      </did>
+<scopecontent>
+	<p>Chapter 5, "Separate Peace."</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">40</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>A Nazi Peace</unittitle>
+         <unitdate>1984-1985</unitdate>
+      </did>
+<scopecontent>
+	<p>Chapter 6, "Installation, Gehlen Organization."</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">40</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>A Nazi Peace</unittitle>
+         <unitdate>1984-1985</unitdate>
+      </did>
+<scopecontent>
+	<p>Chapter 7, "Barbie-Gehlen Link."</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">40</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>A Nazi Peace</unittitle>
+         <unitdate>1984-1985</unitdate>
+      </did>
+<scopecontent>
+	<p>Chapter 7, "Barbie-Gehlen Organization."</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">40</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>A Nazi Peace</unittitle>
+         <unitdate>1984-1985</unitdate>
+      </did>
+<scopecontent>
+	<p>Chapter 8, "Gehlen Falls."</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">40</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>A Nazi Peace</unittitle>
+         <unitdate>1984-1985</unitdate>
+      </did>
+<scopecontent>
+	<p>Chapter 9, "Nazism Reprieved."</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">40</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>A Nazi Peace</unittitle>
+         <unitdate>1984-1985</unitdate>
+      </did>
+<scopecontent>
+	<p>Chapter 10, "Consequences of the Nazi Peace."</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">41</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>A Nazi Peace</unittitle>
+         <unitdate>1984-1985</unitdate>
+      </did>
+<scopecontent>
+	<p>Chapter 10, "Consequences of the Nazi Peace."</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">41</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>A Nazi Peace</unittitle>
+         <unitdate>1984-1985</unitdate>
+      </did>
+<scopecontent>
+	<p>Chapter 10, "Consequences of the Nazi Peace."</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">41</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>A Nazi Peace</unittitle>
+         <unitdate>1984-1985</unitdate>
+      </did>
+<scopecontent>
+	<p>Appendix A, "Historical Profile of U.S. Secret Intelligence."</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">41</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>A Nazi Peace</unittitle>
+         <unitdate>1984-1985</unitdate>
+      </did>
+<scopecontent>
+	<p>Appendix B, "The Nazification: A Chronology."</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">41</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>A Nazi Peace</unittitle>
+         <unitdate>1984-1985</unitdate>
+      </did>
+<scopecontent>
+	<p>Appendix C, "The Papal Assassination Attempt: A Case Study of the Odessa Legacy."</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">41</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>A Nazi Peace</unittitle>
+         <unitdate>1984-1985</unitdate>
+      </did>
+<scopecontent>
+	<p>Appendix D, "On Sources and Documentation."</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">41</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>A Nazi Peace</unittitle>
+         <unitdate>1984-1985</unitdate>
+      </did>
+<scopecontent>
+	<p>Preface, "In Defense of Paranoia."</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">41</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>A Nazi Peace: outline</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">41</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>A Nazi Peace: proposal</unittitle>
+         <unitdate>1985</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">41</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>"Odessa Rising": book materials</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">41</container>
+         <unittitle>Photographs: Gehlen</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">41</container>
+         <unittitle>Printed materials</unittitle>
+         <unitdate>various dates</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">42</container>
+         <unittitle>Printed materials: <title render="italic">Covert Action Information Bulletin</title></unittitle>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">42</container>
+         <unittitle>Printed materials: <title render="italic">Covert Action Information Bulletin</title></unittitle>
+         <unitdate>1980 Dec-1983</unitdate>
+<physdesc>
+	<extent>nos. 11-17</extent>
+</physdesc>
+      </did>
+</c02>
+
+
+<c02>
+<did>
+<container type="box">42</container>
+<unittitle>Printed materials: <title render="italic">Covert Action Information Bulletin</title></unittitle>
+<unitdate>1983-1985</unitdate>
+<physdesc>
+	<extent>nos. 18-23</extent>
+</physdesc>
+</did>
+
+
+   </c02>
+
+
+   <c02>
+      <did>
+<container type="box">42</container>
+         <unittitle>Printed materials: <title render="italic">Covert Action Information Bulletin</title></unittitle>
+         <unitdate>1984-1987</unitdate>
+<physdesc>
+	<extent>nos. 24-27</extent>
+</physdesc>
+      </did>
+
+   </c02>
+   <c02>
+      <did>
+<container type="box">42</container>
+         <unittitle>Printed materials: <title render="italic">Covert Action Information Bulletin</title></unittitle>
+         <unitdate>1988-1992</unitdate>
+<physdesc>
+	<extent>nos. 29-33, 42</extent>
+</physdesc>
+      </did>
+
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">42</container>
+<unittitle>Printed materials: <title render="italic">Counter-Spy</title></unittitle>
+<unitdate>1971</unitdate>
+<physdesc>
+	<extent>v. 1, nos. 1-2</extent>
+</physdesc>
+      </did>
+
+
+   </c02>
+   <c02>
+      <did>
+<container type="box">42</container>
+         <unittitle>Printed materials: "Federal Register: Part IV, The President"</unittitle>
+         <unitdate>1982</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">42</container>
+         <unittitle>Printed materials: <title render="italic">Liberty</title></unittitle>
+         <unitdate>1989</unitdate>
+      </did>
+<scopecontent>
+	<p>Vol. 3, no. 1.</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">43</container>
+         <unittitle>Printed materials: <title render="italic">Lobster</title></unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">43</container>
+         <unittitle>Printed materials: <title render="italic">Prevailing Winds</title></unittitle>
+         <unitdate>2000</unitdate>
+      </did>
+<scopecontent>
+	<p>No. 6.</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">43</container>
+         <unittitle>Printed materials: <title render="italic">Special Intelligence Report</title></unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+<scopecontent>
+	<p>No. 3.</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">43</container>
+         <unittitle>Printed materials: T<title render="italic">op Secret: International News and Analyses</title></unittitle>
+         <unitdate>1990</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">43</container>
+         <unittitle>Project Nazi File: correspondence</unittitle>
+         <unitdate>1986-1987</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">43</container>
+         <unittitle>Project Nazi File: correspondence</unittitle>
+         <unitdate>1988-1989</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">43</container>
+         <unittitle>Project Nazi File: correspondence</unittitle>
+         <unitdate>1990-1991, undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">43</container>
+         <unittitle>Project Nazi File: correspondence with staff associates</unittitle>
+         <unitdate>1990</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">43</container>
+         <unittitle>Project Nazi File: drafts</unittitle>
+         <unitdate>1987</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">43</container>
+         <unittitle>Project Nazi File: drafts</unittitle>
+         <unitdate>1987-1988</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">43</container>
+         <unittitle>Project Nazi File: notes 1987</unittitle>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">43</container>
+         <unittitle>Project Nazi File: proposal</unittitle>
+         <unitdate>2005</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">44</container>
+         <unittitle>Proposal: "The Secret Treaty of fort Hunt"</unittitle>
+         <unitdate>1992</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">44</container>
+         <unittitle>Script: "Superspy"</unittitle>
+         <unitdate>circa 1985</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">44</container>
+         <unittitle>Speech: Oglesby, Carl, "The Secret Treaty of Fort Hunt, 1945"</unittitle>
+         <unitdate>1985</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">44</container>
+         <unittitle>Terrel, Jack: court documents</unittitle>
+         <unitdate>1988</unitdate>
+      </did>
+   </c02>
+   <c02>
+
+      <did>
+<container type="box">44</container>
+         <unittitle>Terrell, Jack: notes and news clippings</unittitle>
+         <unitdate>1988-1997</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">44</container>
+         <unittitle>Transcript: Oglesby, Carl, "The Nazi Connection"</unittitle>
+         <unitdate>1989</unitdate>
+      </did>
+   </c02>
+<c02>
+      <did>
+<container type="box">44</container>
+         <unittitle>Writing fragments</unittitle>
+      </did>
+   </c02>
+
+</c01>
+
+
+<c01 level="series">
+<did>
+<unittitle>Series 5: Other Writings and Research</unittitle>
+<unitdate>1959-2004</unitdate>
+
+</did>
+
+
+<c02>
+<did>
+<unittitle>Subseries 1: Ravens on the Wing</unittitle>
+<unitdate>1959-2003</unitdate>
+
+</did>
+
+
+
+
+   <c03>
+      <did>
+<container type="box">44</container>
+         <unittitle>Correspondence</unittitle>
+         <unitdate>1977-1996</unitdate>
+      </did>
+   </c03>
+
+   <c03>
+      <did>
+<container type="box">44</container>
+         <unittitle>Draft</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c03>
+
+
+   <c03>
+      <did>
+<container type="box">44</container>
+         <unittitle>Draft</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+<scopecontent>
+	<p>Chapters 1, 4.</p>
+</scopecontent>
+   </c03>
+
+   <c03>
+      <did>
+<container type="box">44</container>
+         <unittitle>Draft</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+<scopecontent>
+	<p>Chapters 5-7.</p>
+</scopecontent>
+   </c03>
+
+
+  <c03>
+      <did>
+<container type="box">44</container>
+         <unittitle>Draft</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+<scopecontent>
+	<p>Chapters 8-14.</p>
+</scopecontent>
+   </c03>
+   <c03>
+      <did>
+<container type="box">45</container>
+         <unittitle>Draft</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+<scopecontent>
+	<p>Chapters 15-18.</p>
+</scopecontent>
+   </c03>
+   <c03>
+      <did>
+<container type="box">45</container>
+         <unittitle>Draft</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+<scopecontent>
+	<p>Chapters 20-25.</p>
+</scopecontent>
+   </c03>
+   <c03>
+      <did>
+<container type="box">45</container>
+         <unittitle>Draft</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+<scopecontent>
+	<p>Chapter 9, multiple versions.</p>
+</scopecontent>
+   </c03>
+   <c03>
+      <did>
+<container type="box">45</container>
+         <unittitle>Draft</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+<scopecontent>
+	<p>Chapter 10, multiple versions.</p>
+</scopecontent>
+   </c03>
+   <c03>
+      <did>
+<container type="box">45</container>
+         <unittitle>Draft</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+<scopecontent>
+	<p>Chapter 11, multiple versions.</p>
+</scopecontent>
+   </c03>
+   <c03>
+      <did>
+<container type="box">45</container>
+         <unittitle>Draft</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+<scopecontent>
+	<p>Chapter 12, multiple versions.</p>
+</scopecontent>
+   </c03>
+   <c03>
+      <did>
+<container type="box">45</container>
+         <unittitle>Notes</unittitle>
+         <unitdate>1994-1995</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">45</container>
+         <unittitle>Research materials</unittitle>
+         <unitdate>1973-2003</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">46</container>
+         <unittitle>Research materials</unittitle>
+         <unitdate>1973-2003</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">46</container>
+         <unittitle>Research materials</unittitle>
+         <unitdate>1973-2003</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">46</container>
+         <unittitle>Research materials: chapter 9</unittitle>
+         <unitdate>1968-1986</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">46</container>
+         <unittitle>Research materials: chapter 10</unittitle>
+         <unitdate>1986-1993</unitdate>
+      </did>
+   </c03>
+
+   <c03>
+      <did>
+<container type="box">46</container>
+         <unittitle>Research materials: chapter 10</unittitle>
+         <unitdate>1986-1993</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">46</container>
+         <unittitle>Research materials: chapter 11</unittitle>
+         <unitdate>circa 1980-1999</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">46</container>
+         <unittitle>Research materials: chapter 11</unittitle>
+         <unitdate>1980-1999</unitdate>
+      </did>
+   </c03>
+
+   <c03>
+      <did>
+<container type="box">47</container>
+         <unittitle>Research materials: chapter 12</unittitle>
+         <unitdate>circa 1968</unitdate>
+      </did>
+<scopecontent>
+	<p>Contains photographs and clippings, of Oglesby's trip to Cuba.</p>
+</scopecontent>
+   </c03>
+   <c03>
+      <did>
+<container type="box">47</container>
+         <unittitle>Research materials: chapter 12</unittitle>
+         <unitdate>circa 1968-1993</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">47</container>
+         <unittitle>Research materials: Russel Tribunal</unittitle>
+         <unitdate>1959-1974</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">47</container>
+         <unittitle>Research materials: SDS</unittitle>
+         <unitdate>circa 1973-1977</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">47</container>
+         <unittitle>Writing fragments</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">47</container>
+         <unittitle>Writing fragments</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">48</container>
+         <unittitle>Writing fragments: chapter 10</unittitle>
+         <unitdate>1970-1996</unitdate>
+      </did>
+   </c03>
+</c02>
+
+
+<c02>
+<did>
+<unittitle>Subseries 2: Miscellaneous Writings and Research</unittitle>
+<unitdate>1961-2002</unitdate>
+
+</did>
+
+
+
+   <c03>
+      <did>
+<container type="box">48</container>
+         <unittitle>Academic papers</unittitle>
+         <unitdate>circa 1961-1962</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">48</container>
+         <unittitle>Articles</unittitle>
+         <unitdate>1964-1965</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">48</container>
+         <unittitle>Articles</unittitle>
+         <unitdate>1966-1967</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">48</container>
+         <unittitle>Articles</unittitle>
+         <unitdate>1968-1969</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">48</container>
+         <unittitle>Articles</unittitle>
+         <unitdate>1970-1972</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">48</container>
+         <unittitle>Articles</unittitle>
+         <unitdate>1973</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">48</container>
+         <unittitle>Articles</unittitle>
+         <unitdate>1974-1978</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">49</container>
+         <unittitle>Articles</unittitle>
+         <unitdate>1979-1980</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">49</container>
+         <unittitle>Articles</unittitle>
+         <unitdate>1981-1988</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">49</container>
+         <unittitle>Articles</unittitle>
+         <unitdate>1990-2000</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">49</container>
+         <unittitle>Articles: <title render="italic">Boston Phoenix</title></unittitle>
+         <unitdate>1972</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">49</container>
+         <unittitle>Articles: <title render="italic">Boston Phoenix</title></unittitle>
+         <unitdate>1973</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">49</container>
+         <unittitle>Articles: FBI and CIA</unittitle>
+         <unitdate>1978-1985</unitdate>
+      </did>
+   </c03>
+
+   <c03>
+      <did>
+<container type="box">49</container>
+         <unittitle>Articles: "Getting Back to Watergate at last"</unittitle>
+         <unitdate>1981</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">49</container>
+         <unittitle>Articles: "The Vietnam War: World Revolution and American Containment"</unittitle>
+         <unitdate>1965</unitdate>
+      </did>
+<scopecontent>
+	<p>SDS position paper on Vietnam.</p>
+</scopecontent>
+   </c03>
+
+   <c03>
+      <did>
+<container type="box">49</container>
+<origination>Badrich, Steve</origination>
+         <unittitle>"Mailer's Bad Company"</unittitle>
+         <unitdate>1991</unitdate>
+      </did>
+<scopecontent>
+	<p>Review of Norman Mailer's <title render="italic">Harlot's Ghost</title>.</p>
+</scopecontent>
+   </c03>
+
+   <c03>
+      <did>
+<container type="box">49</container>
+         <unittitle>Bibliography</unittitle>
+         <unitdate>1964-1992</unitdate>
+      </did>
+   </c03>
+
+   <c03>
+      <did>
+<container type="box">49</container>
+         <unittitle><title render="italic">Civil/Military Alliance in Emergency Management</title></unittitle>
+         <unitdate>1982</unitdate>
+      </did>
+   </c03>
+
+   <c03>
+      <did>
+<container type="box">49</container>
+         <unittitle>Correspondence</unittitle>
+         <unitdate>1975-2002</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">49</container>
+         <unittitle>Correspondence: Chomsky, Noam</unittitle>
+         <unitdate>1981</unitdate>
+      </did>
+<scopecontent>
+	<p>Includes drafts, articles by Oglesby about Chomsky.</p>
+</scopecontent>
+   </c03>
+   <c03>
+      <did>
+<container type="box">50</container>
+         <unittitle>Draft, "Double Agent: What Deep Throat Didn't Know About Watergate"</unittitle>
+         <unitdate>1984</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">50</container>
+         <unittitle>Draft, "In Defense of Paranoia"</unittitle>
+         <unitdate>1974</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">50</container>
+         <unittitle>Draft, "One Nation, Divisible"</unittitle>
+         <unitdate>1981-1982</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">50</container>
+         <unittitle>Draft, "Sympathy for the Devil"</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">50</container>
+         <unittitle>Manuscript manuals: "Nick's Way"</unittitle>
+         <unitdate>circa 1980-1989</unitdate>
+      </did>
+   </c03>
+
+
+   <c03>
+      <did>
+<container type="box">50</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>Editorial, draft</unittitle>
+         <unitdate>1981</unitdate>
+      </did>
+   </c03>
+
+   <c03>
+      <did>
+<container type="box">50</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>Editorial, <title render="italic">The Nation</title></unittitle>
+         <unitdate>1980 Feb 16</unitdate>
+      </did>
+   </c03>
+
+   <c03>
+      <did>
+<container type="box">50</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>"Fingerprints on Agca's Gun are Agca's," drafts</unittitle>
+         <unitdate>1984</unitdate>
+      </did>
+   </c03>
+
+   <c03>
+      <did>
+<container type="box">50</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>"It Can Happen Again"</unittitle>
+         <unitdate>1998</unitdate>
+      </did>
+<scopecontent>
+	<p>Review of Martin Lee's <title render="italic">The Beast Reawakens</title>.</p>
+</scopecontent>
+   </c03>
+
+   <c03>
+      <did>
+<container type="box">50</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>"Life at the End of the Road: Jungians at the Apocalypse"</unittitle>
+         <unitdate>1983 Sept</unitdate>
+      </did>
+   </c03>
+
+   <c03>
+      <did>
+<container type="box">50</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>"My Dinner with Andrey: A True Story of the Cold War"</unittitle>
+         <unitdate>1983 Nov</unitdate>
+      </did>
+   </c03>   
+
+<c03>
+      <did>
+<container type="box">50</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>"New German Philosopher! New German Philosopher! What Does This Man Mean to Say?"</unittitle>
+         <unitdate>1970</unitdate>
+      </did>
+   </c03>
+
+   <c03>
+      <did>
+<container type="box">50</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>"Open Letter to McCarthy Supporters"</unittitle>
+         <unitdate>1968</unitdate>
+      </did>
+   </c03>
+
+
+   <c03>
+      <did>
+<container type="box">50</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>"P-2 Connection: Was Agca Used by Italian Fascists?"</unittitle>
+         <unitdate>1985</unitdate>
+      </did>
+<scopecontent>
+	<p>Co-written by Jerry Miller.</p>
+</scopecontent>
+   </c03>
+
+   <c03>
+      <did>
+<container type="box">50</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle><title render="italic">Peacemaker</title></unittitle>
+         <unitdate>1963</unitdate>
+      </did>
+   </c03>
+
+   <c03>
+      <did>
+<container type="box">50</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle><title render="italic">Season of the Beast</title></unittitle>
+         <unitdate>1956</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">50</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>"Trapped in a System"</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c03>
+
+   <c03>
+      <did>
+<container type="box">51</container>
+<origination>Oglesby, Carl</origination>
+         <unittitle>"World Before Watergate"</unittitle>
+         <unitdate>1978 May</unitdate>
+      </did>
+   </c03>
+
+   <c03>
+      <did>
+<container type="box">51</container>
+         <unittitle>Poetry fragments: "Tobie's Book"</unittitle>
+         <unitdate>circa 1992-1996</unitdate>
+      </did>
+   </c03>
+
+
+   <c03>
+      <did>
+<container type="box">51</container>
+         <unittitle>Poetry fragments: "Verse Vice"</unittitle>
+         <unitdate>circa 1983-1998</unitdate>
+      </did>
+   </c03>
+
+
+   <c03>
+      <did>
+<container type="box">51</container>
+         <unittitle>Research materials: Agca, Mehmet Ali</unittitle>
+         <unitdate>1982-1985</unitdate>
+      </did>
+   </c03>
+
+   <c03>
+      <did>
+<container type="box">51</container>
+         <unittitle>Research materials: Agca, Mehmet Ali</unittitle>
+         <unitdate>1985</unitdate>
+      </did>
+   </c03>
+
+   <c03>
+      <did>
+<container type="box">51</container>
+         <unittitle>Research materials: Bush, George</unittitle>
+         <unitdate>1988-1990</unitdate>
+      </did>
+   </c03>
+
+   <c03>
+      <did>
+<container type="box">51</container>
+         <unittitle>Research materials: general</unittitle>
+         <unitdate>1950-2004</unitdate>
+      </did>
+   </c03>
+
+   <c03>
+      <did>
+<container type="box">51</container>
+         <unittitle>Research materials: North, Oliver</unittitle>
+         <unitdate>1986-1990</unitdate>
+      </did>
+   </c03>
+
+
+   <c03>
+      <did>
+<container type="box">51</container>
+         <unittitle>Research materials: Sunbelt</unittitle>
+         <unitdate>1980-1981</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">52</container>
+         <unittitle>Research materials: Sunbelt</unittitle>
+         <unitdate>circa 1981</unitdate>
+      </did>
+   </c03>
+
+   <c03>
+      <did>
+<container type="box">52</container>
+<origination>Salcedo, Frank S.</origination>
+         <unittitle>"The Fifth Horseman of the Apocalypse: Civil Security During and After the Unthinkable"</unittitle>
+         <unitdate>1983</unitdate>
+      </did>
+   </c03>
+
+   <c03>
+      <did>
+<container type="box">52</container>
+         <unittitle><title render="italic">World Bank Report</title></unittitle>
+         <unitdate>1970</unitdate>
+      </did>
+   </c03>
+
+   <c03>
+      <did>
+<container type="box">52</container>
+         <unittitle>Writing fragments and other materials: "Kingdoms of Twilight"</unittitle>
+         <unitdate>circa 1981</unitdate>
+      </did>
+   </c03>
+</c02>
+
+<c02>
+<did>
+<unittitle>Subseries 3: Religion</unittitle>
+<unitdate>1971-2004</unitdate>
+
+</did>
+
+
+   <c03>
+      <did>
+<container type="box">52</container>
+         <unittitle>Draft" "Art at the Apocalypse"</unittitle>
+         <unitdate>1982</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">52</container>
+         <unittitle>Draft" "Art at the Apocalypse"</unittitle>
+         <unitdate>1982</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">52</container>
+         <unittitle>Draft" "Art at the Apocalypse"</unittitle>
+         <unitdate>1982</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">52</container>
+         <unittitle>Draft: "Rescuing Jesus From the Cross"</unittitle>
+         <unitdate>1983</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">52</container>
+         <unittitle>Manuscript: "The Sermons of Judas"</unittitle>
+         <unitdate>circa 1971</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">52</container>
+         <unittitle>Manuscript: "The Sermons of Judas"</unittitle>
+         <unitdate>circa 1971</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">53</container>
+         <unittitle>Religious materials</unittitle>
+         <unitdate>1995-2004</unitdate>
+      </did>
+   </c03>
+   <c03>
+      <did>
+<container type="box">53</container>
+         <unittitle>Research materials: "The Sermons of Judas"</unittitle>
+         <unitdate>1982-2003</unitdate>
+      </did>
+   </c03>
+
+</c02>
+
+</c01>
+
+<c01 level="series">
+<did>
+<unittitle>Series 6: Personal</unittitle>
+<unitdate>1942-2003</unitdate>
+
+</did>
+
+
+
+   <c02>
+      <did>
+<container type="box">53</container>
+         <unittitle>Announcements and invitations</unittitle>
+         <unitdate>1956-2001</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">53</container>
+         <unittitle>Articles: Clinton, Hillary</unittitle>
+         <unitdate>1994</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">53</container>
+         <unittitle>Biographical material: Oglesby, Carl</unittitle>
+         <unitdate>1978</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">53</container>
+         <unittitle>Book excerpt" "Bill of Rights Journal"</unittitle>
+         <unitdate>1995</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">53</container>
+         <unittitle>Book reviews: "Bob Villa's Dream House"</unittitle>
+         <unitdate>1990-1991</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">53</container>
+         <unittitle>Brochures: "When Students Made History"</unittitle>
+         <unitdate>circa 1980</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">53</container>
+         <unittitle>Calendar</unittitle>
+         <unitdate>1994</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">53</container>
+         <unittitle>Center for Strategic and International Studies (CSIS: Correspondence</unittitle>
+         <unitdate>1987-1994</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">53</container>
+         <unittitle>Center for Strategic and International Studies (CSIS): drafts, "Religion and Conflict"</unittitle>
+         <unitdate>1982-1992</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">54</container>
+         <unittitle>Center for Strategic and International Studies (CSIS): Johnston, Doug, writings</unittitle>
+         <unitdate>1992-1999</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">54</container>
+         <unittitle>Center for Strategic and International Studies (CSIS): Luttwak, Edward N., writings</unittitle>
+         <unitdate>1989</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">54</container>
+         <unittitle>Center for Strategic and International Studies (CSIS): meeting notes and status reports</unittitle>
+         <unitdate>1987-1989</unitdate>
+      </did>
+   </c02>
+
+<c02>
+<did>
+<container type="box">54</container>
+<unittitle>Center for Strategic and International Studies (CSIS): notes and newspaper clippings</unittitle>
+<unitdate>1988</unitdate>
+      </did>
+</c02>
+
+   <c02>
+      <did>
+<container type="box">54</container>
+         <unittitle>Center for Strategic and International Studies (CSIS): paper proposals, "Religion and Conflict"</unittitle>
+         <unitdate>1988</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">54</container>
+         <unittitle>Class reunion</unittitle>
+         <unitdate>1997-2001</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">54</container>
+         <unittitle>Correspondence</unittitle>
+         <unitdate>1985-1991</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">54</container>
+         <unittitle>Correspondence</unittitle>
+         <unitdate>1993-2001</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">54</container>
+         <unittitle>Correspondence: Citizens' Review Commission on the FBI</unittitle>
+         <unitdate>1979</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">54</container>
+         <unittitle>Correspondence: Diabacco, Aron and Art</unittitle>
+         <unitdate>1973-2003</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">54</container>
+         <unittitle>Correspondence: Dohrn, Bernadine</unittitle>
+         <unitdate>1989</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">54</container>
+         <unittitle>Correspondence: Filmore, Laura</unittitle>
+         <unitdate>1992-1993</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">54</container>
+         <unittitle>Correspondence: Flanagan, Darrell</unittitle>
+         <unitdate>2001-2005</unitdate>
+      </did>
+<scopecontent>
+	<p>Includes materials on various conspiracy theories.</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">55</container>
+         <unittitle>Correspondence: Mailer, Norman</unittitle>
+         <unitdate>1977-1992</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">55</container>
+         <unittitle>Correspondence: Miller, Robert Carl</unittitle>
+         <unitdate>1991</unitdate>
+      </did>
+<scopecontent>
+	<p>Includes articles on conspiracy theories.</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">55</container>
+         <unittitle>Correspondence: Naimen, Arthur</unittitle>
+         <unitdate>1992-1993</unitdate>
+      </did>
+<scopecontent>
+	<p>From Odonian Press.</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">55</container>
+         <unittitle>Correspondence: Oglesby, Caleb</unittitle>
+         <unitdate>1986-1994</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">55</container>
+         <unittitle>Correspondence: Oglesby, Terry and Eddie</unittitle>
+         <unitdate>circa 1994</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">55</container>
+         <unittitle>Correspondence: papers of Carl Oglesby</unittitle>
+         <unitdate>1974-1999</unitdate>
+      </did>
+<scopecontent>
+	<p>Concerning the placement of Oglesby's papers.</p>
+</scopecontent>
+   </c02>
+   <c02>
+      <did>
+<container type="box">55</container>
+         <unittitle>Correspondence: publishing</unittitle>
+         <unitdate>1978-1992</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">55</container>
+         <unittitle>Correspondence: Rutgers University Press</unittitle>
+         <unitdate>1993-2001</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">55</container>
+         <unittitle>Correspondence: Woods, Phil</unittitle>
+         <unitdate>2002</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">55</container>
+         <unittitle>Correspondence: Wrestling, Alma</unittitle>
+         <unitdate>1966-1988</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">55</container>
+         <unittitle>Excerpts: <title render="italic">The Peacemaker</title></unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">55</container>
+         <unittitle>Lease information</unittitle>
+         <unitdate>2002-2003</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">55</container>
+         <unittitle>Name tags and tickets</unittitle>
+         <unitdate>1990-1997</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">55</container>
+         <unittitle>Newspaper clippings</unittitle>
+         <unitdate>1954-2001</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">56</container>
+         <unittitle>Notes</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">56</container>
+         <unittitle>Notes</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">56</container>
+<origination>Oglesby, Caleb</origination>
+         <unittitle>"Killers" calendar materials</unittitle>
+         <unitdate>circa 1995</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">56</container>
+         <unittitle>Oglesby family history</unittitle>
+         <unitdate>1962-1994</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">56</container>
+         <unittitle>Oglesby family legal papers</unittitle>
+         <unitdate>1942-1997</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">56</container>
+         <unittitle>Poetry: Oglesby, Aron</unittitle>
+         <unitdate>1978</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">56</container>
+         <unittitle>Poetry: Oglesby, Carl</unittitle>
+         <unitdate>circa 1990</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+<container type="box">56</container>
+         <unittitle>Photographs</unittitle>
+         <unitdate>circa 1990</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">56</container>
+         <unittitle>Printed materials</unittitle>
+         <unitdate>1979-2001</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">56</container>
+         <unittitle>Printed materials</unittitle>
+         <unitdate>1979-2001</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">56</container>
+         <unittitle>Publishing contracts and paperwork</unittitle>
+         <unitdate>1989-2002</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+<container type="box">56</container>
+         <unittitle>Research materials: epilepsy</unittitle>
+         <unitdate>2002-2003</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+ <container type="box">57</container>
+         <unittitle>Resume</unittitle>
+         <unitdate>1993</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+ <container type="box">57</container>
+         <unittitle>Scrapbook</unittitle>
+         <unitdate>circa 1951-1953</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">57</container>
+         <unittitle>Screenplay: Miller, Don Ethan, "Dark Lady"</unittitle>
+         <unitdate>1989</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">57</container>
+         <unittitle>Screenplay: Miller, Don Ethan, "Dark Lady"</unittitle>
+         <unitdate>1991</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">57</container>
+         <unittitle>Screenplay: Miller, Don Ethan, "Dragon Bones"</unittitle>
+         <unitdate>1993</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">57</container>
+         <unittitle>Screenplay: Miller, Don Ethan, "Forbidden City"</unittitle>
+         <unitdate>1992</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">57</container>
+         <unittitle>Script: Klemenchich, Katie, "The Dark Matter"</unittitle>
+         <unitdate>2000</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">57</container>
+         <unittitle>SDS reunion</unittitle>
+         <unitdate>1986</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">57</container>
+         <unittitle>Typescript: Barber, David, untitled</unittitle>
+         <unitdate>circa 2003</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">57</container>
+         <unittitle>Typescript: Barber, David, untitled</unittitle>
+         <unitdate>circa 2003</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">57</container>
+         <unittitle>Typescript: Barber, David, untitled</unittitle>
+         <unitdate>circa 2003</unitdate>
+      </did>
+   </c02>
+</c01>
+
+<c01 level="series">
+<did>
+<unittitle>Series 7: Audio-Visual</unittitle>
+<unitdate>1966-2000</unitdate>
+</did>
+
+   <c02>
+      <did>
+ <container type="box">59</container>
+         <unittitle>Audio cassette: Assassination of JFK: The Garrison Interview, part 1</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+<scopecontent>
+	<p>Produced by Andrew Phillips and David Mendelsohn.</p>
+</scopecontent>
+   </c02>
+
+   <c02>
+      <did>
+ <container type="box">59</container>
+         <unittitle>Audio cassette: Assassination of JFK: The Garrison Interview, part 2</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+<scopecontent>
+	<p>Produced by Andrew Phillips and David Mendelsohn.</p>
+</scopecontent>
+   </c02>
+
+   <c02>
+      <did>
+ <container type="box">59</container>
+         <unittitle>Audio cassette: Garrison</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+ <container type="box">59</container>
+         <unittitle>Audio cassette: Garrison</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+<scopecontent>
+	<p>Parts 1-2.</p>
+</scopecontent>
+   </c02>
+
+   <c02>
+      <did>
+ <container type="box">59</container>
+         <unittitle>Audio cassette: Garrison</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+<scopecontent>
+	<p>Parts 3-4.</p>
+</scopecontent>
+   </c02>
+
+  <c02>
+      <did>
+ <container type="box">60</container>
+         <unittitle>Audio cassette: Garrison and Mary Howell</unittitle>
+         <unitdate>1991</unitdate>
+      </did>
+   </c02>
+
+
+  <c02>
+      <did>
+ <container type="box">60</container>
+         <unittitle>Audio cassette: General Reinhard Gehlen: The CIA Connection</unittitle>
+         <unitdate>1990</unitdate>
+      </did>
+<scopecontent>
+	<p>Jeff Young interviewing Mary Ellen Reese, author of <title render="italic">Reinhard Gehlen: The Nazi Connection</title>.</p>
+</scopecontent>
+   </c02>
+
+   <c02>
+      <did>
+ <container type="box">59</container>
+         <unittitle>Audio cassette: JFK Assassination: An Interview with Carl Oglesby</unittitle>
+         <unitdate>1992 May 27</unitdate>
+      </did>
+<scopecontent>
+	<p>Produced by Bob Young</p>
+</scopecontent>
+   </c02>
+
+
+   <c02>
+      <did>
+ <container type="box">60</container>
+         <unittitle>Audio cassette: Tipton, John</unittitle>
+         <unitdate>1984</unitdate>
+      </did>
+<scopecontent>
+	<p>Concerning Klaus Barbie.</p>
+</scopecontent>
+   </c02>
+
+   <c02>
+      <did>
+ <container type="box">60</container>
+         <unittitle>Audio cassette: "Uncle Sam and the Swastika"</unittitle>
+         <unitdate>1990
+</unitdate>
+      </did>
+   </c02>
+
+
+   <c02>
+      <did>
+ <container type="box">58</container>
+         <unittitle>Audio reel to reel: Oglesby, Carl, Lecture at Antioch</unittitle>
+         <unitdate>1966 Apr 10</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+ <container type="box">61-62</container>
+         <unittitle>Slides: JFK lectures and talks</unittitle>
+         <unitdate>various dates</unitdate>
+      </did>
+<scopecontent>
+	<p>Slides used by Oglesby in his presentations on the JFK assassination.</p>
+</scopecontent>
+   </c02>
+
+   <c02>
+      <did>
+ <container type="box">58</container>
+         <unittitle>Video tape: Agee, Philip and Stockwell, John</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+<scopecontent>
+	<p>Both former members of the CIA.</p>
+</scopecontent>
+   </c02>
+
+   <c02>
+      <did>
+ <container type="box">59</container>
+         <unittitle>Video tape: Alois Brunner: The Last Nazi</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+   <c02>
+      <did>
+ <container type="box">59</container>
+         <unittitle>Video tape: Beyond JFK: The Question of Conspiracy</unittitle>
+         <unitdate>1992</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+ <container type="box">58</container>
+         <unittitle>Video cassette: "Gehlen"</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+ <container type="box">58</container>
+         <unittitle>Video tape: "Gerry Patrick Hemming Panel"</unittitle>
+         <unitdate>1996</unitdate>
+      </did>
+<scopecontent>
+	<p>November in Dallas Conference</p>
+</scopecontent>
+   </c02>
+
+   <c02>
+      <did>
+ <container type="box">58</container>
+         <unittitle>Video tape: JFK Assassination</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+<scopecontent>
+	<p>Featuring Carl Oglesby.</p>
+</scopecontent>
+   </c02>
+
+   <c02>
+      <did>
+ <container type="box">58</container>
+         <unittitle>Video tape: Kent State and the Transformation of a nation: A People's History of Kent</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+ <container type="box">58</container>
+         <unittitle>Video tape: LBJ: A Closer Look</unittitle>
+         <unitdate>1998</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+ <container type="box">58</container>
+         <unittitle>Video tape: "Making Sense of the Sixties"</unittitle>
+         <unitdate>1991</unitdate>
+      </did>
+<scopecontent>
+	<p>Excerpts featuring Oglesby in the PBS special.</p>
+</scopecontent>
+   </c02>
+
+   <c02>
+      <did>
+ <container type="box">58</container>
+         <unittitle>Video tape: "The Men Who Killed JFK"</unittitle>
+         <unitdate>1991</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+ <container type="box">58</container>
+         <unittitle>Video tape: "The Murder of JFK: Confession of an Assassin</unittitle>
+         <unitdate>1996</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+ <container type="box">60</container>
+         <unittitle>Video tape: Nazi Connection</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+ <container type="box">60</container>
+         <unittitle>Video tape: "Oglesby on JFK"</unittitle>
+         <unitdate>2000 Nov 22</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+ <container type="box">58</container>
+         <unittitle>Video tape: "Orville Nix Film/JFK"</unittitle>
+         <unitdate>undated</unitdate>
+      </did>
+   </c02>
+
+   <c02>
+      <did>
+ <container type="box">58</container>
+         <unittitle>Video tape: Political History and the JFK Assassination</unittitle>
+         <unitdate>1997</unitdate>
+      </did>
+<scopecontent>
+	<p>November in Dallas Conference</p>
+</scopecontent>
+   </c02>
+
+   <c02>
+      <did>
+ <container type="box">60</container>
+         <unittitle>Video tape: Remembering Vietnam</unittitle>
+         <unitdate>circa 2000</unitdate>
+      </did>
+<scopecontent>
+	<p>Featuring Bernardine Dohrn, Sue Eanet Klonsky, Carl Oglesby, Robert Pardun, Paul Potter; produced and directed by Helen Garvey. An SDS Oral History video, based on interview for <title render="italic">Rebels with a Cause</title>, a documentary film about Students for a Democratic Society.</p>
+</scopecontent>
+   </c02>
+
+
+
+</c01>
+
+
+</dsc>
+
+
+</archdesc>
+</ead>
