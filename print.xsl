@@ -1,6 +1,6 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="http://www.w3.org/1999/xhtml">
 <xsl:strip-space elements="*" />
-    <xsl:output method="xhtml" encoding="utf-8" doctype-public="-//W3C//DTD XHTML+RDFa 1.0//EN" doctype-system="http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd" />
+    <xsl:output method="html" encoding="utf-8" doctype-public="-//W3C//DTD XHTML+RDFa 1.0//EN" doctype-system="http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd" />
 
 <xsl:variable name="file">
 <xsl:value-of select="ead/eadheader/eadid" />
@@ -89,7 +89,13 @@
                 </xsl:element>
             </xsl:element>
         </xsl:element>
+	<xsl:for-each select="ead//controlaccess/subject[@source='lcsh']">
+	<xsl:element name="div">
+	  <xsl:attribute name="rel">dcterms:subject</xsl:attribute>
+	  <xsl:attribute name="resource">http://id.loc.gov/authorities/label/<xsl:value-of select="." /></xsl:attribute>
     </xsl:element>  
+  </xsl:for-each>
+    </xsl:element>
         </div>
 </xsl:template>
 
