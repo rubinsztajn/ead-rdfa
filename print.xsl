@@ -95,14 +95,21 @@
                 <xsl:attribute name="datatype">xsd:date</xsl:attribute>
             </xsl:element>
         </xsl:if>
+        <xsl:for-each select="ead/archdesc/did/physdesc/extent">
         <xsl:element name="div">
             <xsl:attribute name="property">dcterms:extent</xsl:attribute>
             <xsl:attribute name="content">
-                        <xsl:for-each select="ead/archdesc/did/physdesc/extent">
-                            <xsl:apply-templates /><xsl:text> </xsl:text>
-                    </xsl:for-each>
+                <xsl:choose>
+                    <xsl:when test="contains(., '(')">
+                        <xsl:value-of select="translate(., '()', '')"/>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:value-of select="."/>
+                    </xsl:otherwise>
+                </xsl:choose>  
             </xsl:attribute>
         </xsl:element>
+        </xsl:for-each>
         <xsl:if test="ead/archdesc/did/abstract">
         <xsl:element name="div">
             <xsl:attribute name="property">dcterms:abstract</xsl:attribute>
@@ -127,7 +134,7 @@
 	<xsl:for-each select="ead//controlaccess/subject[@source='lcsh']">
 	<xsl:element name="div">
 	  <xsl:attribute name="rel">dcterms:subject</xsl:attribute>
-	  <xsl:attribute name="resource">http://id.loc.gov/authorities/label/<xsl:value-of select="." /></xsl:attribute>
+	  <xsl:attribute name="resource">http://id.loc.gov/authorities/label/<xsl:value-of select="translate(., '.', '')" /></xsl:attribute>
     </xsl:element>  
   </xsl:for-each>
     </xsl:element>
