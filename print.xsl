@@ -43,9 +43,9 @@
 
 <!-- Generate RDFa snippet -->
 <xsl:template name="rdfa">
-    <div xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:arch="http://purl.org/archival/vocab/arch#" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+    <div xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:arch="http://purl.org/archival/vocab/arch#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
     <xsl:element name="div">
-        <xsl:attribute name="about">#collection</xsl:attribute>
+        <xsl:attribute name="about">http://www.library.umass.edu/spcoll/ead/<xsl:value-of select="ead/eadheader/eadid"/>.html#collection</xsl:attribute>
         <xsl:attribute name="typeof">arch:Collection</xsl:attribute>
         <xsl:element name="div">
             <xsl:attribute name="property">dcterms:title</xsl:attribute>
